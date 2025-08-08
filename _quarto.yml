@@ -6,7 +6,7 @@ website:
   page-navigation: true
   title: "Omaha Hulusi Ensemble"
   site-url: https://omahahulusi.luozijun.com
-  favicon: images/site-logo.png
+  # favicon: images/site-logo.png
   # repo-url: https://github.com/lianyujun/lianyujun.github.io
   # repo-actions: [edit, issue]
   

@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: omahahulusi
   
 website:
   page-navigation: true

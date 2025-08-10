@@ -12,22 +12,22 @@ website:
   
   page-footer:
     left: |
-      [Omaha Hulusi Ensemble](https://omahahulusi.luozijun.com)<br>
+      © 2025 [Omaha Hulusi Ensemble](https://omahahulusi.luozijun.com)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
     background: "#A9CCE3"
     search: true
-    right: 
+    left: 
       - text: "Home"
         href: index.qmd
-      # - text: "Publications"
-      #   href: publications.qmd
-      # - text: "Books"
-      #   href: books.qmd
-      # - text: "Blogs"
-      #   href: blog.qmd
+      - text: "Members Only"
+        href: member.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Pentatonic Woodwinds"
+        href: https://pentatonicwoodwinds.luozijun.com
       # - text: "Codes"
       #   href: codes.qmd
       # - text: "中文"
@@ -38,6 +38,6 @@ website:
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
+    toc: false            # 启用目录
     toc-position: right  # 将目录放置在页面的右侧
     toc-depth: 3         # 设置目录的深度，数字越大，目录越详细

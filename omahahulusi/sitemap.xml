@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://omahahulusi.luozijun.com/blog.html</loc>
-    <lastmod>2025-08-08T19:19:19.616Z</lastmod>
-  </url>
-  <url>
     <loc>https://omahahulusi.luozijun.com/about.html</loc>
     <lastmod>2025-08-08T21:34:21.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omahahulusi.luozijun.com/readme.html</loc>
-    <lastmod>2025-08-08T19:19:19.629Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omahahulusi.luozijun.com/codes.html</loc>
-    <lastmod>2025-08-08T19:19:19.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omahahulusi.luozijun.com/CV.html</loc>
-    <lastmod>2025-08-08T19:19:19.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omahahulusi.luozijun.com/books.html</loc>
-    <lastmod>2025-08-08T19:19:19.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://omahahulusi.luozijun.com/Chinese.html</loc>
-    <lastmod>2025-08-08T19:19:19.614Z</lastmod>
   </url>
   <url>
     <loc>https://omahahulusi.luozijun.com/index.html</loc>
     <lastmod>2025-08-08T21:45:08.822Z</lastmod>
   </url>
   <url>
-    <loc>https://omahahulusi.luozijun.com/publications.html</loc>
-    <lastmod>2025-08-08T22:40:30.506Z</lastmod>
+    <loc>https://omahahulusi.luozijun.com/CV.html</loc>
+    <lastmod>2025-08-08T19:19:19.612Z</lastmod>
   </url>
   <url>
-    <loc>https://omahahulusi.luozijun.com/Teaching.html</loc>
-    <lastmod>2025-08-08T19:19:19.614Z</lastmod>
+    <loc>https://omahahulusi.luozijun.com/member.html</loc>
+    <lastmod>2025-08-09T15:28:29.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://omahahulusi.luozijun.com/readme.html</loc>
+    <lastmod>2025-08-08T19:19:19.629Z</lastmod>
   </url>
 </urlset>

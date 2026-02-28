@@ -1,0 +1,384 @@
+%pdfquality 1
+%pageheader Medley
+%pagefooter Omaha Hulusi Ensemble (Last updated: $DATEYMD)
+%headerfooterfontsize 9
+%pdffont Noto-Sans
+
+X:1
+%%staffsep .8in
+%%staffwidth 750
+T:Medley
+T:(for Hulusi Emsemble)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%score [1 5 4]
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble name="Lead Hulusi in Bb" snm="Lead Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:1] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,4 A,4 ||
+M:3/4
+G,4 [Q:1/4=80] F,2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 C2 ||
+M:4/4
+K:Fmaj
+B,3 C F,2 B,/2G,/2F,/2G,/2 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+V:4 clef=treble-8 name="Bass Hulusi in Bb" snm="Bass Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:4] B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 D2 | F,2 C2 A,2 C2 |
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 C2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 F,2 | B,4 (3G,B,G, | F,4 z2 | B,6 |
+B,4 F,2 | B,6- | B,4 z2 | B,6 | B,6 | 
+G,3 G, G,B, | B,4 z2 | G,6 | B,4 F,2 | B,6 || 
+z4 F,2 | B,4 DB, | D4 C2 | B,4 G,2 | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | G,2 C2 C2 z2 | 
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 B,2 z2 | F,2 F,2 F,2 F,2 |
+G,2 z2 G,2 z2 | F,2 F,4 F,2 | F,2 z2 F,2 z2 | G,2 C2 C2 z2 |
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | F,4 z4 |]
+V:5 clef=treble name="Hulusi in Bb" snm="Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:5] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+
+X:2
+T:Medley
+T:(Lead Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble
+%%jianpu 1
+%%MIDI program 5
+K:Cmaj
+Q:1/4=160
+M:4/4
+E2 E2 E2 E2 | D2 D2 D4 | C2 C2 C2 C2 | E8 |
+A,2 A,2 A,2 A,2 | G,2 G,2 C4 | B,2 C2 D2 E2 | D8 |
+E2 E2 E2 E2 | D2 D2 D4 | C2 C2 C2 C2 | E8 |
+A,2 A,2 A,2 A,2 | G,2 G,2 C4 | D2 C2 D2 E2 | C4 B,4 ||
+M:3/4
+A,4 [Q:1/4=80] G,2 | C4 EC | E4 D2 | C4 (3A,CA, | G,4 G,2 | C4 EC | 
+E4 D2 | G6- | G4 E2 | G3 E GE | C4 G,2 |
+A,3 C CA, | G,4 G,2 | C4 EC | E4 D2 | C6- ||
+C4 G,2 | CG,CDEC | EG,B,EDA, | 
+CECG,CA, | G,4 G,D | CG,A,CEC | 
+ECB,A,G,D | GAGECE | G4 E2 | 
+GDCECA, | CA,G,A,G,C |
+A,DEGCA, | G,4 G,2 | 
+C4 EC | E4 D2 | C4 D2 ||
+M:4/4
+K:Gmaj
+C3 D G,2 C/2A,/2G,/2A,/2 | [Q:1/4=160] B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 G,2 | A,6 G,A, | 
+B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 A,2 | G,8 | 
+C4 C3 D | E2 E4 E2 | D2 D2 B,2 G,2 | A,6 G,A, | 
+B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 A,2 | G,4 z4 |]
+
+X:3
+T:Medley
+T:(Bass Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:4 clef=treble-8
+%%jianpu 1
+%%MIDI program 5
+K:Cmaj
+Q:1/4=160
+M:4/4
+C2 G2 C2 G2 | G,2 D2 G2 D2 | A,2 E2 A,2 E2 | B,2 B,2 B,2 E2 |
+C2 A,2 C2 A,2 | C2 C2 A,2 G,2 | D4 A,2 E2 | G,2 D2 B,2 D2 |
+C2 G2 C2 G2 | G,2 D2 G2 D2 | A,2 E2 A,2 E2 | B,2 B,2 B,2 E2 |
+C2 A,2 C2 A,2 | C2 C2 A,2 G,2 | D4 A,2 D2 | C8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | C4 EC | E4 G,2 | C4 (3A,CA, | G,4 z2 | C6 |
+C4 G,2 | C6- | C4 z2 | C6 | C6 | 
+A,3 A, A,C | C4 z2 | A,6 | C4 G,2 | C6 || 
+z4 G,2 | C4 EC | E4 D2 | C4 A,2 | G,4 G,2 | C4 EC | 
+E4 D2 | G6- | G4 E2 | G3 E GE | C4 G,2 |
+A,3 C CA, | G,4 G,2 | C4 EC | E4 D2 | C4 z2 ||
+M:4/4
+K:Gmaj
+z8 | [Q:1/4=160] G,2 z2 G,2 z2 | G,2 z2 G,2 z2 | G,2 z2 D2 z2 | A,2 D2 D2 z2 | 
+G,2 z2 G,2 z2 | G,2 z2 G,2 z2 | G,2 z2 C2 z2 | G,2 G,2 G,2 G,2 |
+A,2 z2 A,2 z2 | G,2 G,4 G,2 | G,2 z2 G,2 z2 | A,2 D2 D2 z2 |
+G,2 z2 G,2 z2 | G,2 z2 G,2 z2 | G,2 z2 D2 z2 | G,4 z4 |]
+
+X:4
+T:Medley
+T:(Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:5 clef=treble
+%%jianpu 1
+%%MIDI program 5
+K:Cmaj
+Q:1/4=160
+M:4/4
+E2 E2 E2 E2 | D2 D2 D4 | C2 C2 C2 C2 | E8 |
+A,2 A,2 A,2 A,2 | G,2 G,2 C4 | B,2 C2 D2 E2 | D8 |
+E2 E2 E2 E2 | D2 D2 D4 | C2 C2 C2 C2 | E8 |
+A,2 A,2 A,2 A,2 | G,2 G,2 C4 | D2 C2 D2 E2 | C8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | C4 EC | E4 D2 | C4 (3A,CA, | G,4 G,2 | C4 EC | 
+E4 D2 | G6- | G4 E2 | G3 E GE | C4 G,2 |
+A,3 C CA, | G,4 G,2 | C4 EC | E4 D2 | C6- ||
+C4 G,2 | CG,CDEC | EG,B,EDA, | 
+CECG,CA, | G,4 G,D | CG,A,CEC | 
+ECB,A,G,D | GAGECE | G4 E2 | 
+GDCECA, | CA,G,A,G,C |
+A,DEGCA, | G,4 G,2 | 
+C4 EC | E4 D2 | C4 z2 ||
+M:4/4
+K:Gmaj
+z8 | [Q:1/4=160] B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 G,2 | A,6 G,A, | 
+B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 A,2 | G,8 | 
+C4 C3 D | E2 E4 E2 | D2 D2 B,2 G,2 | A,6 G,A, | 
+B,2 D2 D3 E | D2 B,A, G,2 G,A, | B,2 B,2 A,2 A,2 | G,4 z4 |]
+
+X:1
+%%staffsep .8in
+%%staffwidth 750
+T:Medley
+T:(for Hulusi Emsemble)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%score [1 5 4]
+%%barnumbers 0
+%%measurenb 0
+%%transpose 12
+V:1 clef=treble name="Lead Hulusi in Bb" snm="Lead Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:1] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,4 A,4 ||
+M:3/4
+G,4 [Q:1/4=80] F,2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 C2 ||
+M:4/4
+B,3 C F,2 B,/2G,/2F,/2G,/2 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+V:4 clef=treble-8 name="Bass Hulusi in Bb" snm="Bass Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:4] B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 D2 | F,2 C2 A,2 C2 |
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 C2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 F,2 | B,4 (3G,B,G, | F,4 z2 | B,6 |
+B,4 F,2 | B,6- | B,4 z2 | B,6 | B,6 | 
+G,3 G, G,B, | B,4 z2 | G,6 | B,4 F,2 | B,6 || 
+z4 F,2 | B,4 DB, | D4 C2 | B,4 G,2 | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | G,2 C2 C2 z2 | 
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 B,2 z2 | F,2 F,2 F,2 F,2 |
+G,2 z2 G,2 z2 | F,2 F,4 F,2 | F,2 z2 F,2 z2 | G,2 C2 C2 z2 |
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | F,4 z4 |]
+V:5 clef=treble name="Hulusi in Bb" snm="Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:5] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+
+X:2
+T:Medley
+T:(Lead Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,4 A,4 ||
+M:3/4
+G,4 [Q:1/4=80] F,2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | 
+B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | 
+FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 C2 ||
+M:4/4
+B,3 C F,2 B,/2G,/2F,/2G,/2 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | 
+C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,4 z4 |]
+
+X:3
+T:Medley
+T:(Bass Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:4 clef=treble-8
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 D2 | F,2 C2 A,2 C2 |
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 C2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 F,2 | B,4 (3G,B,G, | F,4 z2 | B,6 |
+B,4 F,2 | B,6- | B,4 z2 | B,6 | B,6 | 
+G,3 G, G,B, | B,4 z2 | G,6 | B,4 F,2 | B,6 || 
+z4 F,2 | B,4 DB, | D4 C2 | 
+B,4 G,2 | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | 
+F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 C2 z2 | G,2 C2 C2 z2 | 
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 B,2 z2 | F,2 F,2 F,2 F,2 |
+G,2 z2 G,2 z2 | F,2 F,4 F,2 | 
+F,2 z2 F,2 z2 | G,2 C2 C2 z2 |
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 C2 z2 | F,4 z4 |]
+
+X:4
+T:Medley
+T:(Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:5 clef=treble
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | 
+B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | 
+FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | 
+C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,4 z4 |]

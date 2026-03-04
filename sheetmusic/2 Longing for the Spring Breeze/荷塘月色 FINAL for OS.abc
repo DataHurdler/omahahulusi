@@ -1,0 +1,123 @@
+%pdfquality 1
+%pageheader 荷塘月色
+%pagefooter Omaha Hulusi Ensemble (Last updated: $DATEYMD)
+%headerfooterfontsize 9
+%pdffont Noto-Sans
+
+X:1
+%%staffsep .8in
+%%staffwidth 750
+T:荷塘月色 (Moonlight over the Lotus Pond)
+T:(for Hulusi Emsemble)
+C:Composed by ZHANG Chao
+C:Arranged by LUO Zijun
+L:1/8
+M:4/4
+Q:1/4=98
+%%score [4 1 2 5 6 7 8]
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble name="Hulusi in Bb 1" snm="Bb 1"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:1] B,3F B,FB,C | D8 | B,3F B,FB,C | C8 | 
+B,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,8 ||
+B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | FDDC D4 |
+B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,4 |
+|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC D4 |
+B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
+FF2F F2 F2 | GFDC B,4 | G2GF DCB,G, | C2 CD C4 |
+DF2F F2 F2 | GFDC B,4 | G,B,G,F, C2 DB, | B,8 || 
+B,3F B,FB,C | D8 | B,3F B,FB,C | 
+C8 | B,3F B,FCB, | G,4 z F,B,C | 
+B,3 F B,FB,G,|1 B,8 :|2 B,8 || B,8 |]
+V:2 clef=treble name="Hulusi in Bb 2" snm="Bb 2"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:2] F,3F B,FB,C | D8 | B,3F B,FB,C | C8 |
+F,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,8 ||
+B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | CB,B,G, B,4 | 
+B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,4 |
+|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC D4 |
+B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
+CC2C C2 C2 | DCB,G, F,4 | G2GF DCB,G, | C2 CD C4 |
+B,C2C C2 C2 | DCB,G, F,4 | G,B,G,F, C2 DB, | B,8 || 
+F,3F B,FB,C | D8 | B,3F B,FB,C | 
+C3 F/2D/2 C2 F2 | F,3F B,FCB, | G,4 z F,B,C | 
+B,3 F B,FB,G, |1 B,8 :|2 B,8 || B,8 |]
+V:4 clef=treble name="9-Hole Hulusi in Bb" snm="9H Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:4] B,3F B,FB,C | D8 | B,3F B,FB,C | C3 F/2D/2 C2 F2 |
+B,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,4 z G/2F/2DC ||
+B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | FDDC D4 | 
+B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,G,/2B,/2CD |
+|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC DG,/2B,/2CD |
+B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
+FF2F F2 F2 | GFDC B,4 | GBGF DCB,G, | C2 CD C4 |
+DF2F F2 F2 | GFDC B,4 | G,B,G,F, C2 DB, | B,8 || 
+B,3F B,FB,C | D8 | B,3F B,FB,C | 
+C3 F/2D/2 C2 F2 | B,3F B,FCB, | G,4 z F,B,C | 
+B,3 F B,FB,G, |1 B,4 z G/2F/2DC :|2 B,8 || F,8 |]
+V:5 clef=treble-8 name="Hulusi in F" snm="F"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:5] D3F Fz Fz | D8 | F3 C Fz Fz | C2 z F/2D/2 C2 F2 |
+D3F Fz Gz | G4 Gz Fz | F3 C Fz Fz | F4 z G/2F/2DC ||
+Fz Fz Fz Dz | Gz Fz Gz Gz | Gz Cz Fz Fz | Fz Fz Fz FF |
+Fz Fz Fz Fz | Gz Fz Gz Gz | Gz Cz Fz Fz | CGGC Fz z2 |
+|: Fz Fz Fz Dz | Gz Fz Gz Gz | Gz Cz Fz Fz | FGGF Gz z2 | 
+Fz Fz Fz Fz | Gz Fz Gz FF | Gz Cz Fz Fz | Gz Gz Fz Fz ||
+F F2 F F2 F2 | GFDC Fz Fz | G2GF DC Gz | Fz Cz Fz Fz |
+D F2 F F2 F2 | GFDC Fz Fz | Gz Gz Cz Dz | F8 ||
+D3F Fz Fz | D8 | F3 C Fz Fz | 
+C2 z F/2D/2 C2 F2 | D3F Fz Gz | G4 Gz Fz | 
+F3 C Fz Fz |1 F4 z G/2F/2DC :|2 F8 || D8 |]
+V:6 clef=treble-8 name="Bass Hulusi in Bb 1" snm="Bass Bb 1"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:6] B,2 F2 B,4 | G,2 B,2 G4 | B,2 F2 G,4 | F,2 C2 F4 |
+B,2 F2 B,4 | G,2 B,2 G,4 | B,2 F2 G,4 | B,2 F,2 B,4 ||
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | B,2 F,2 B,4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | C2 F,2 B,G,/2B,/2CD |
+|: B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | B,2 F,2 B,G,/2B,/2CD |
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | C2 D2 B,4 ||
+B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,2 B,2 | F,2 C2 F4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | C2 G,2 C4 | z D/2C/2 B,G, B,4 ||
+B,2 F2 B,4 | G,2 B,2 G4 | B,2 F2 G,4 | 
+F,2 C2 F4 | B,2 F2 B,4 | G,2 B,2 G,4 | 
+B,2 F2 G,4 |1 B,2 F,2 B,4 :|2 B,2 F,2 B,4 || B,8 |]
+V:7 clef=treble-8 name="Bass Hulusi in Bb 2" snm="Bass Bb 2"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+[V:7] B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | F,2 C2 F,4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | B,2 F,2 B,4 ||
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | B,2 F,2 B,4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | C2 F,2 B,4 |
+|: B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | B,2 F,2 B,4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | C2 D2 B,4 ||
+B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,2 B,2 | F,2 C2 F,4 |
+B,2 F,2 B,4 | G,2 B,2 G,4 | C2 G,2 C4 | B,2 F,2 B,4 ||
+B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | 
+F,2 C2 F,4 | B,2 F,2 B,4 | G,2 B,2 G,4 | 
+B,2 F,2 G,4 |1 B,2 F,2 B,4 :|2 B,2 F,2 B,4 || B,8 |]
+V:8 stem=up name="Tingsha (Optional)" snm="Tingsha"
+%%MIDI program 113
+K:none clef=perc stafflines=1
+z8 | z2 B2 B2 z2 | z8 | z4 B2 B2 |
+z8 | z2 B2 B2 z2 | z8 | z2 B2 B2 z2 ||
+B2 z6 | B2 z6 | B2 z6 | B2 z6 |
+B2 z6 | B2 z6 | B2 z6 | B2 z6 |
+|: B2 z6 | B2 z6 | B2 z6 | B2 z6 |
+B2 z6 | B2 z6 | B2 z6 | B2 z6 |
+B2 z2 B2 z2 | B2 z2 B2 z2 | B2 z2 B2 z2 | B2 z2 B2 z2 |
+B2 z2 B2 z2 | B2 z2 B2 z2 | B2 z2 B2 z2 | B2 z2 B2 z2 |
+z8 | z2 B2 B2 z2 | z8 |
+z4 B2 B2 | z8 | z2 B2 B2 z2 |
+z8 |1 z2 B2 B2 z2 :|2 z8 || B2 z6 |]

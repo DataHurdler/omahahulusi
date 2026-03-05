@@ -1,6 +1,6 @@
 # Our Mission
 
-The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area.Known for its vibrant multipart arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage.Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.
+The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area.Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage.Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.
 
 奥马哈葫芦丝合奏团成立于2025年4月，团员来自奥马哈都会区各年龄层不同背景的中国音乐爱好者。合奏团以精心编排的多声部作品为特色，生动呈现传统与现代中国旋律的独特魅力。通过社区演出与文化交流活动，合奏团积极推广葫芦丝艺术，传播中国音乐之美。
 

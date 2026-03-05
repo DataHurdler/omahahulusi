@@ -21,92 +21,92 @@ V:1 clef=treble name="Hulusi in Bb 1" snm="Bb 1"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:1] B,3F B,FB,C | D8 | B,3F B,FB,C | C8 | 
-B,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,8 ||
-B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | FDDC D4 |
-B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,4 |
-|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC D4 |
-B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
-FF2F F2 F2 | GFDC B,4 | G2GF DCB,G, | C2 CD C4 |
-DF2F F2 F2 | GFDC B,4 | G,B,G,F, C2 DB, | B,8 || 
-B,3F B,FB,C | D8 | B,3F B,FB,C | 
-C8 | B,3F B,FCB, | G,4 z F,B,C | 
-B,3 F B,FB,G,|1 B,8 :|2 B,8 || B,8 |]
+[V:1] B3f BfBc | d8 | B3f BfBc | c8 | 
+B3f BfcB | G4 z FBc | B3 f BfBG| B8 ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | fddc d4 |
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc B4 |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc d4 |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+ff2f f2 f2 | gfdc B4 | g2gf dcBG | c2 cd c4 |
+df2f f2 f2 | gfdc B4 | GBGF c2 dB | B8 || 
+B3f BfBc | d8 | B3f BfBc | 
+c8 | B3f BfcB | G4 z FBc | 
+B3 f BfBG|1 B8 :|2 B8 || B8 |]
 V:2 clef=treble name="Hulusi in Bb 2" snm="Bb 2"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:2] F,3F B,FB,C | D8 | B,3F B,FB,C | C8 |
-F,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,8 ||
-B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | CB,B,G, B,4 | 
-B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,4 |
-|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC D4 |
-B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
-CC2C C2 C2 | DCB,G, F,4 | G2GF DCB,G, | C2 CD C4 |
-B,C2C C2 C2 | DCB,G, F,4 | G,B,G,F, C2 DB, | B,8 || 
-F,3F B,FB,C | D8 | B,3F B,FB,C | 
-C3 F/2D/2 C2 F2 | F,3F B,FCB, | G,4 z F,B,C | 
-B,3 F B,FB,G, |1 B,8 :|2 B,8 || B,8 |]
+[V:2] F3f BfBc | d8 | B3f BfBc | c8 |
+F3f BfcB | G4 z FBc | B3 f BfBG| B8 ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | cBBG B4 | 
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc B4 |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc d4 |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+cc2c c2 c2 | dcBG F4 | g2gf dcBG | c2 cd c4 |
+Bc2c c2 c2 | dcBG F4 | GBGF c2 dB | B8 || 
+F3f BfBc | d8 | B3f BfBc | 
+c3 f/2d/2 c2 f2 | F3f BfcB | G4 z FBc | 
+B3 f BfBG |1 B8 :|2 B8 || B8 |]
 V:4 clef=treble name="9-Hole Hulusi in Bb" snm="9H Bb"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:4] B,3F B,FB,C | D8 | B,3F B,FB,C | C3 F/2D/2 C2 F2 |
-B,3F B,FCB, | G,4 z F,B,C | B,3 F B,FB,G,| B,4 z G/2F/2DC ||
-B,B,2 G,F,2G,2 | B,2 B,C D4 | CC2 B,C2 CF | FDDC D4 | 
-B,B,2 G,F,2F2 | DCDC B,4 | CC2B, CC2D | CB,G,C B,G,/2B,/2CD |
-|: B,B,2 G,F,2G,2 | B,B,2 C D4 | CC2 B, C2 CF | FDDC DG,/2B,/2CD |
-B,B,B,G, F,2 F2 | DCDC B,4 | CC2 B, CC2 D | CB,G,C B,4 ||
-FF2F F2 F2 | GFDC B,4 | GBGF DCB,G, | C2 CD C4 |
-DF2F F2 F2 | GFDC B,4 | G,B,G,F, C2 DB, | B,8 || 
-B,3F B,FB,C | D8 | B,3F B,FB,C | 
-C3 F/2D/2 C2 F2 | B,3F B,FCB, | G,4 z F,B,C | 
-B,3 F B,FB,G, |1 B,4 z G/2F/2DC :|2 B,8 || F,8 |]
+[V:4] B3f BfBc | d8 | B3f BfBc | c3 f/2d/2 c2 f2 |
+B3f BfcB | G4 z FBc | B3 f BfBG| B4 z g/2f/2dc ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | fddc d4 | 
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc BG/2B/2cd |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc dG/2B/2cd |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+ff2f f2 f2 | gfdc B4 | gbgf dcBG | c2 cd c4 |
+df2f f2 f2 | gfdc B4 | GBGF c2 dB | B8 || 
+B3f BfBc | d8 | B3f BfBc | 
+c3 f/2d/2 c2 f2 | B3f BfcB | G4 z FBc | 
+B3 f BfBG |1 B4 z g/2f/2dc :|2 B8 || F8 |]
 V:5 clef=treble-8 name="Hulusi in F" snm="F"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:5] D3F Fz Fz | D8 | F3 C Fz Fz | C2 z F/2D/2 C2 F2 |
-D3F Fz Gz | G4 Gz Fz | F3 C Fz Fz | F4 z G/2F/2DC ||
-Fz Fz Fz Dz | Gz Fz Gz Gz | Gz Cz Fz Fz | Fz Fz Fz FF |
-Fz Fz Fz Fz | Gz Fz Gz Gz | Gz Cz Fz Fz | CGGC Fz z2 |
-|: Fz Fz Fz Dz | Gz Fz Gz Gz | Gz Cz Fz Fz | FGGF Gz z2 | 
-Fz Fz Fz Fz | Gz Fz Gz FF | Gz Cz Fz Fz | Gz Gz Fz Fz ||
-F F2 F F2 F2 | GFDC Fz Fz | G2GF DC Gz | Fz Cz Fz Fz |
-D F2 F F2 F2 | GFDC Fz Fz | Gz Gz Cz Dz | F8 ||
-D3F Fz Fz | D8 | F3 C Fz Fz | 
-C2 z F/2D/2 C2 F2 | D3F Fz Gz | G4 Gz Fz | 
-F3 C Fz Fz |1 F4 z G/2F/2DC :|2 F8 || D8 |]
+[V:5] d3f fz fz | d8 | f3 c fz fz | c2 z f/2d/2 c2 f2 |
+d3f fz gz | g4 gz fz | f3 c fz fz | f4 z g/2f/2dc ||
+fz fz fz dz | gz fz gz gz | gz cz fz fz | fz fz fz ff |
+fz fz fz fz | gz fz gz gz | gz cz fz fz | cggc fz z2 |
+|: fz fz fz dz | gz fz gz gz | gz cz fz fz | fggf gz z2 | 
+fz fz fz fz | gz fz gz ff | gz cz fz fz | gz gz fz fz ||
+f f2 f f2 f2 | gfdc fz fz | g2gf dc gz | fz cz fz fz |
+d f2 f f2 f2 | gfdc fz fz | gz gz cz dz | f8 ||
+d3f fz fz | d8 | f3 c fz fz | 
+c2 z f/2d/2 c2 f2 | d3f fz gz | g4 gz fz | 
+f3 c fz fz |1 f4 z g/2f/2dc :|2 f8 || d8 |]
 V:6 clef=treble-8 name="Bass Hulusi in Bb 1" snm="Bass Bb 1"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:6] B,2 F2 B,4 | G,2 B,2 G4 | B,2 F2 G,4 | F,2 C2 F4 |
-B,2 F2 B,4 | G,2 B,2 G,4 | B,2 F2 G,4 | B,2 F,2 B,4 ||
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | B,2 F,2 B,4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | C2 F,2 B,G,/2B,/2CD |
-|: B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | B,2 F,2 B,G,/2B,/2CD |
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F4 | C2 D2 B,4 ||
-B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,2 B,2 | F,2 C2 F4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | C2 G,2 C4 | z D/2C/2 B,G, B,4 ||
-B,2 F2 B,4 | G,2 B,2 G4 | B,2 F2 G,4 | 
-F,2 C2 F4 | B,2 F2 B,4 | G,2 B,2 G,4 | 
-B,2 F2 G,4 |1 B,2 F,2 B,4 :|2 B,2 F,2 B,4 || B,8 |]
+[V:6] B2 f2 B4 | G2 B2 g4 | B2 f2 G4 | F2 c2 f4 |
+B2 f2 B4 | G2 B2 G4 | B2 f2 G4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | c2 F2 BG/2B/2cd |
+|: B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | B2 F2 BG/2B/2cd |
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | c2 d2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G2 B2 | F2 c2 f4 |
+B2 F2 B4 | G2 B2 G4 | c2 G2 c4 | z d/2c/2 BG B4 ||
+B2 f2 B4 | G2 B2 g4 | B2 f2 G4 | 
+F2 c2 f4 | B2 f2 B4 | G2 B2 G4 | 
+B2 f2 G4 |1 B2 F2 B4 :|2 B2 F2 B4 || B8 |]
 V:7 clef=treble-8 name="Bass Hulusi in Bb 2" snm="Bass Bb 2"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V:7] B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | F,2 C2 F,4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | B,2 F,2 B,4 ||
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | B,2 F,2 B,4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | C2 F,2 B,4 |
-|: B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | B,2 F,2 B,4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | G,2 C2 F,4 | C2 D2 B,4 ||
-B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,2 B,2 | F,2 C2 F,4 |
-B,2 F,2 B,4 | G,2 B,2 G,4 | C2 G,2 C4 | B,2 F,2 B,4 ||
-B,2 F,2 B,4 | G,2 B,2 G,4 | B,2 F,2 G,4 | 
-F,2 C2 F,4 | B,2 F,2 B,4 | G,2 B,2 G,4 | 
-B,2 F,2 G,4 |1 B,2 F,2 B,4 :|2 B,2 F,2 B,4 || B,8 |]
+[V:7] B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | F2 c2 F4 |
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | c2 F2 B4 |
+|: B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | c2 d2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G2 B2 | F2 c2 F4 |
+B2 F2 B4 | G2 B2 G4 | c2 G2 c4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | 
+F2 c2 F4 | B2 F2 B4 | G2 B2 G4 | 
+B2 F2 G4 |1 B2 F2 B4 :|2 B2 F2 B4 || B8 |]
 V:8 stem=up name="Tingsha (Optional)" snm="Tingsha"
 %%MIDI program 113
 K:none clef=perc stafflines=1
@@ -137,17 +137,18 @@ Q:1/4=98
 V:1 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Cmaj
-C3G CGCD | E8 | C3G CGCD | D8 |
-C3G CGDC | A,4 z G,CD | C3 G CGCA,| C8 ||
-CC2 A,G,2A,2 | C2 CD E4 | DD2 CD2 DG | GEED E4 |
-CC2 A,G,2G2 | EDED C4 | DD2C DD2E | DCA,D C4 |
-|: CC2 A,G,2A,2 | CC2 D E4 | DD2 C D2 DG | GEED E4 |
-CCCA, G,2 G2 | EDED C4 | DD2 C DD2 E | DCA,D C4 ||
-GG2G G2 G2 | AGED C4 | A2AG EDCA, | D2 DE D4 |
-EG2G G2 G2 | AGED C4 | A,CA,G, D2 EC | C8 || 
-C3G CGCD | E8 | C3G CGCD | D8 | 
-C3G CGDC | A,4 z G,CD | C3 G CGCA,|1 C8 :|2 C8 || C8 |]
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+B3f BfBc | d8 | B3f BfBc | c8 |
+B3f BfcB | G4 z FBc | B3 f BfBG| B8 ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | fddc d4 |
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc B4 |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc d4 |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+ff2f f2 f2 | gfdc B4 | g2gf dcBG | c2 cd c4 |
+df2f f2 f2 | gfdc B4 | GBGF c2 dB | B8 || 
+B3f BfBc | d8 | B3f BfBc | c8 | 
+B3f BfcB | G4 z FBc | B3 f BfBG|1 B8 :|2 B8 || B8 |]
 
 X:3
 %%staffsep .8in
@@ -164,17 +165,18 @@ Q:1/4=98
 V:2 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Cmaj
-G,3G CGCD | E8 | C3G CGCD | D8 |
-G,3G CGDC | A,4 z G,CD | C3 G CGCA,| C8 ||
-CC2 A,G,2A,2 | C2 CD E4 | DD2 CD2 DG | DCCA, C4 | 
-CC2 A,G,2G2 | EDED C4 | DD2C DD2E | DCA,D C4 |
-|: CC2 A,G,2A,2 | CC2 D E4 | DD2 C D2 DG | GEED E4 |
-CCCA, G,2 G2 | EDED C4 | DD2 C DD2 E | DCA,D C4 ||
-DD2D D2 D2 | EDCA, G,4 | A2AG EDCA, | D2 DE D4 |
-CD2D D2 D2 | EDCA, G,4 | A,CA,G, D2 EC | C8 || 
-G,3G CGCD | E8 | C3G CGCD | D3 G/2E/2 D2 G2 | 
-G,3G CGDC | A,4 z G,CD | C3 G CGCA, |1 C8 :|2 C8 || C8 |]
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+F3f BfBc | d8 | B3f BfBc | c8 |
+F3f BfcB | G4 z FBc | B3 f BfBG| B8 ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | cBBG B4 | 
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc B4 |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc d4 |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+cc2c c2 c2 | dcBG F4 | g2gf dcBG | c2 cd c4 |
+Bc2c c2 c2 | dcBG F4 | GBGF c2 dB | B8 || 
+F3f BfBc | d8 | B3f BfBc | c3 f/2d/2 c2 f2 | 
+F3f BfcB | G4 z FBc | B3 f BfBG |1 B8 :|2 B8 || B8 |]
 
 X:4
 %%staffsep .8in
@@ -191,17 +193,18 @@ Q:1/4=98
 V:4 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Cmaj
-C3G CGCD | E8 | C3G CGCD | D3 G/2E/2 D2 G2 |
-C3G CGDC | A,4 z G,CD | C3 G CGCA,| C4 z A/2G/2ED ||
-CC2 A,G,2A,2 | C2 CD E4 | DD2 CD2 DG | GEED E4 | 
-CC2 A,G,2G2 | EDED C4 | DD2C DD2E | DCA,D CA,/2C/2DE |
-|: CC2 A,G,2A,2 | CC2 D E4 | DD2 C D2 DG | GEED EA,/2C/2DE |
-CCCA, G,2 G2 | EDED C4 | DD2 C DD2 E | DCA,D C4 ||
-GG2G G2 G2 | AGED C4 | AcAG EDCA, | D2 DE D4 |
-EG2G G2 G2 | AGED C4 | A,CA,G, D2 EC | C8 || 
-C3G CGCD | E8 | C3G CGCD | D3 G/2E/2 D2 G2 | 
-C3G CGDC | A,4 z G,CD | C3 G CGCA, |1 C4 z A/2G/2ED :|2 C8 || G,8 |]
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+B3f BfBc | d8 | B3f BfBc | c3 f/2d/2 c2 f2 |
+B3f BfcB | G4 z FBc | B3 f BfBG| B4 z g/2f/2dc ||
+BB2 GF2G2 | B2 Bc d4 | cc2 Bc2 cf | fddc d4 | 
+BB2 GF2f2 | dcdc B4 | cc2B cc2d | cBGc BG/2B/2cd |
+|: BB2 GF2G2 | BB2 c d4 | cc2 B c2 cf | fddc dG/2B/2cd |
+BBBG F2 f2 | dcdc B4 | cc2 B cc2 d | cBGc B4 ||
+ff2f f2 f2 | gfdc B4 | gbgf dcBG | c2 cd c4 |
+df2f f2 f2 | gfdc B4 | GBGF c2 dB | B8 || 
+B3f BfBc | d8 | B3f BfBc | c3 f/2d/2 c2 f2 | 
+B3f BfcB | G4 z FBc | B3 f BfBG |1 B4 z g/2f/2dc :|2 B8 || F8 |]
 
 X:5
 %%staffsep .8in
@@ -218,17 +221,18 @@ Q:1/4=98
 V:5 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Fmaj
-A,3C Cz Cz | A,8 | C3 G, Cz Cz | G,2 z C/2A,/2 G,2 C2 |
-A,3C Cz Dz | D4 Dz Cz | C3 G, Cz Cz | C4 z D/2C/2A,G, ||
-Cz Cz Cz A,z | Dz Cz Dz Dz | Dz G,z Cz Cz | Cz Cz Cz CC |
-Cz Cz Cz Cz | Dz Cz Dz Dz | Dz G,z Cz Cz | G,DDG, Cz z2 |
-|: Cz Cz Cz A,z | Dz Cz Dz Dz | Dz G,z Cz Cz | CDDC Dz z2 | 
-Cz Cz Cz Cz | Dz Cz Dz CC | Dz G,z Cz Cz | Dz Dz Cz Cz ||
-C C2 C C2 C2 | DCA,G, Cz Cz | D2DC A,G, Dz | Cz G,z Cz Cz |
-A, C2 C C2 C2 | DCA,G, Cz Cz | Dz Dz G,z A,z | C8 ||
-A,3C Cz Cz | A,8 | C3 G, Cz Cz | G,2 z C/2A,/2 G,2 C2 | 
-A,3C Cz Dz | D4 Dz Cz | C3 G, Cz Cz |1 C4 z D/2C/2A,G, :|2 C8 || A,8 |]
+K:Ebmaj
+%%visualtranspose -10_of_semitones
+G3B Bz Bz | G8 | B3 F Bz Bz | F2 z B/2G/2 F2 B2 |
+G3B Bz cz | c4 cz Bz | B3 F Bz Bz | B4 z c/2B/2GF ||
+Bz Bz Bz Gz | cz Bz cz cz | cz Fz Bz Bz | Bz Bz Bz BB |
+Bz Bz Bz Bz | cz Bz cz cz | cz Fz Bz Bz | FccF Bz z2 |
+|: Bz Bz Bz Gz | cz Bz cz cz | cz Fz Bz Bz | BccB cz z2 | 
+Bz Bz Bz Bz | cz Bz cz BB | cz Fz Bz Bz | cz cz Bz Bz ||
+B B2 B B2 B2 | cBGF Bz Bz | c2cB GF cz | Bz Fz Bz Bz |
+G B2 B B2 B2 | cBGF Bz Bz | cz cz Fz Gz | B8 ||
+G3B Bz Bz | G8 | B3 F Bz Bz | F2 z B/2G/2 F2 B2 | 
+G3B Bz cz | c4 cz Bz | B3 F Bz Bz |1 B4 z c/2B/2GF :|2 B8 || G8 |]
 
 X:6
 %%staffsep .8in
@@ -245,17 +249,18 @@ Q:1/4=98
 V:6 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Cmaj
-C2 G2 C4 | A,2 C2 A4 | C2 G2 A,4 | G,2 D2 G4 |
-C2 G2 C4 | A,2 C2 A,4 | C2 G2 A,4 | C2 G,2 C4 ||
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G4 | C2 G,2 C4 |
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G4 | D2 G,2 CA,/2C/2DE |
-|: C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G4 | C2 G,2 CA,/2C/2DE |
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G4 | D2 E2 C4 ||
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,2 C2 | G,2 D2 G4 |
-C2 G,2 C4 | A,2 C2 A,4 | D2 A,2 D4 | z E/2D/2 CA, C4 ||
-C2 G2 C4 | A,2 C2 A4 | C2 G2 A,4 | G,2 D2 G4 | 
-C2 G2 C4 | A,2 C2 A,4 | C2 G2 A,4 |1 C2 G,2 C4 :|2 C2 G,2 C4 || C8 |]
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+B2 f2 B4 | G2 B2 g4 | B2 f2 G4 | F2 c2 f4 |
+B2 f2 B4 | G2 B2 G4 | B2 f2 G4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | c2 F2 BG/2B/2cd |
+|: B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | B2 F2 BG/2B/2cd |
+B2 F2 B4 | G2 B2 G4 | G2 c2 f4 | c2 d2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G2 B2 | F2 c2 f4 |
+B2 F2 B4 | G2 B2 G4 | c2 G2 c4 | z d/2c/2 BG B4 ||
+B2 f2 B4 | G2 B2 g4 | B2 f2 G4 | F2 c2 f4 | 
+B2 f2 B4 | G2 B2 G4 | B2 f2 G4 |1 B2 F2 B4 :|2 B2 F2 B4 || B8 |]
 
 X:7
 %%staffsep .8in
@@ -272,17 +277,18 @@ Q:1/4=98
 V:7 clef=treble
 %%jianpu 1
 %%MIDI program 5
-K:Cmaj
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,4 | G,2 D2 G,4 |
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,4 | C2 G,2 C4 ||
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G,4 | C2 G,2 C4 |
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G,4 | D2 G,2 C4 |
-|: C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G,4 | C2 G,2 C4 |
-C2 G,2 C4 | A,2 C2 A,4 | A,2 D2 G,4 | D2 E2 C4 ||
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,2 C2 | G,2 D2 G,4 |
-C2 G,2 C4 | A,2 C2 A,4 | D2 A,2 D4 | C2 G,2 C4 ||
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,4 | G,2 D2 G,4 | 
-C2 G,2 C4 | A,2 C2 A,4 | C2 G,2 A,4 |1 C2 G,2 C4 :|2 C2 G,2 C4 || C8 |]
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | F2 c2 F4 |
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | c2 F2 B4 |
+|: B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | B2 F2 B4 |
+B2 F2 B4 | G2 B2 G4 | G2 c2 F4 | c2 d2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G2 B2 | F2 c2 F4 |
+B2 F2 B4 | G2 B2 G4 | c2 G2 c4 | B2 F2 B4 ||
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 | F2 c2 F4 | 
+B2 F2 B4 | G2 B2 G4 | B2 F2 G4 |1 B2 F2 B4 :|2 B2 F2 B4 || B8 |]
 
 X:8
 %%staffsep .8in

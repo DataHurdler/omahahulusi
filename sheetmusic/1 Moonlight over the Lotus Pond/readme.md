@@ -1,6 +1,6 @@
 ## Instrumentation
 
-- 9-Hole Hulusi in Bb: One
+- 9-Hole Hulusi in Bb: one
 - Hulusi in Bb 1: many
 - Hulusi in Bb 2: one
 - (optional) Hulusi in F: one

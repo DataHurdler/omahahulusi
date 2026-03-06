@@ -1,12 +1,13 @@
-## Instrumentation Setting One
+## Instrumentation One (Bb 1, Bb 2, and two Bass Bb)
 
-- Hulusi in Bb 1: many players
-- Hulusi in Bb 2: one player
-- Bass Hulusi in Bb: two players, and they split in measures 9, 10, 21, and 22
+- Hulusi in Bb 1: many
+- Hulusi in Bb 2: one
+- Hulusi in F: none
+- Bass Hulusi in Bb: two, and they split in measures 9, 10, 21, and 22
 
-Alternatively, it can be played with:
+## Instrumentation Two (Bb 1, one Bass Bb, and optional F)
 
-- Hulusi in Bb 1: many players
-- NO Hulusi in Bb 2
-- Hulusi in F: one player, who plays the same as Bass Hulusi in Bb (bottom line in measures 9, 10, 21, and 22) for measures 1 through 24 (can skip measure 24) and then switch to either Bb 1 or Bass Bb (preferred)
-- Bass Hulusi in Bb: one player (bottom line in measures 9, 10, 21, and 22)
+- Hulusi in Bb 1: many
+- Hulusi in Bb 2: none
+- (optional) Hulusi in F: one, plays the same as Bb 1 for measures 1 through 24 (can skip measure 24), then switch to Bb 1
+- Bass Hulusi in Bb: one, and plays bottom line in measures 9, 10, 21, and 22

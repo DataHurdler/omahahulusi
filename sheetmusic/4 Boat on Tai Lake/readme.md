@@ -1,7 +1,12 @@
 The best result for "Boat on Tai Lake" and Variations is obtained with the following instrumentation:
 
-- One player on Bb 2 and two players on Bass Bb (split on measures 9, 10, 21, and 22).
+- Hulusi in Bb 1: many players
+- Hulusi in Bb 2: one player
+- Bass Hulusi in Bb: two players, and they split in measures 9, 10, 21, and 22
 
 Alternatively, it can be played with:
 
-- No Bb 2, one F, and one Bass Bb. In this case, F plays same melody as Bb 1 or Bass Bb (bottom line) but switch to either Bb 1 or Bass Bb after the first 24 measures (can skip measure 24).
+- Hulusi in Bb 1: many players
+- Hulusi in Bb 2: no player
+- Hulusi in F: one player, who plays the same as Bass Hulusi in Bb (bottom line ion measures 9, 10, 21, and 22) for measures 1 through 24 (can skip measure 24) and then switch to either Bb 1 or Bass Bb (preferred)
+- Bass Hulusi in Bb: one player (bottom line in measures 9, 10, 21, and 22)

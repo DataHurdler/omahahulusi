@@ -1,4 +1,4 @@
-**Instrumentation Setting One
+## Instrumentation Setting One
 
 - Hulusi in Bb 1: many players
 - Hulusi in Bb 2: one player

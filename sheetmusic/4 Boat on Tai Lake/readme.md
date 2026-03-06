@@ -7,6 +7,6 @@ The best result for "Boat on Tai Lake" and Variations is obtained with the follo
 Alternatively, it can be played with:
 
 - Hulusi in Bb 1: many players
-- Hulusi in Bb 2: no player
-- Hulusi in F: one player, who plays the same as Bass Hulusi in Bb (bottom line ion measures 9, 10, 21, and 22) for measures 1 through 24 (can skip measure 24) and then switch to either Bb 1 or Bass Bb (preferred)
+- NO Hulusi in Bb 2
+- Hulusi in F: one player, who plays the same as Bass Hulusi in Bb (bottom line in measures 9, 10, 21, and 22) for measures 1 through 24 (can skip measure 24) and then switch to either Bb 1 or Bass Bb (preferred)
 - Bass Hulusi in Bb: one player (bottom line in measures 9, 10, 21, and 22)

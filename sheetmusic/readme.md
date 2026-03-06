@@ -14,10 +14,10 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 
 # Tunes Completed and Planned
 
-- 1 Moonlight over the Lotus Pond
-- 2 Longing for the Spring Breeze
-- 3 Medley (Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
-- 4 Boat on Tai Lake (in progress)
-- 5 Purple Bamboo Medley (planned)
+- 1 Moonlight over the Lotus Pond/荷塘月色
+- 2 Longing for the Spring Breeze/望春风
+- 3 Medley/串烧 (Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+- 4 Boat on Tai Lake/太湖船
+- 5 Purple Bamboo Melody/紫竹调 (planned)
 - 6 Dayung Sampan/甜蜜蜜 (planned)
 - 99 Practice Tunes

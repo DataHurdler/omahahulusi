@@ -4,4 +4,4 @@ The best result for "Boat on Tai Lake" and Variations is obtained with the follo
 
 Alternatively, it can be played with:
 
-- No Bb 2, one F, and one Bass Bb. In this case, F plays same melody As Bb 1 or Bass Bb (bottom line) but switch to either Bb 1 or Bass Bb after the first 24 measures.
+- No Bb 2, one F, and one Bass Bb. In this case, F plays same melody as Bb 1 or Bass Bb (bottom line) but switch to either Bb 1 or Bass Bb after the first 24 measures (can skip measure 24).

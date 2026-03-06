@@ -1,4 +1,4 @@
-The best result for "Boat on Tai Lake" and Variations is obtained with the following instrumentation:
+**Instrumentation Setting One
 
 - Hulusi in Bb 1: many players
 - Hulusi in Bb 2: one player

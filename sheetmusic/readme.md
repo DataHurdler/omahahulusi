@@ -20,4 +20,5 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - 4 Boat on Tai Lake/太湖船
 - 5 Purple Bamboo Melody/紫竹调 (planned)
 - 6 Dayung Sampan/甜蜜蜜 (planned)
+- 7 芦笙恋歌 (planned)
 - 99 Practice Tunes

@@ -16,7 +16,7 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 
 - 1 荷塘月色 (Moonlight over the Lotus Pond)
 - 2 望春风 (Longing for the Spring Breeze)
-- 3 串烧 (Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+- 3 美国经典串烧 (American Heritage Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
 - 4 太湖船 (Boat on Tai Lake)
 - 5 紫竹调 (Purple Bamboo Melody) (planned)
 - 6 甜蜜蜜 (Dayung Sampan) (planned)

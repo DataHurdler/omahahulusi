@@ -1,0 +1,35 @@
+X:3
+%%staffsep .8in
+%%staffwidth 750
+T:太湖船 (Boat on Tai Lake)
+C:江苏民歌
+M:2/4
+L:1/8
+%%measurenb 0
+V:1 clef=treble
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+D'2 F'2 | D'2 C'D' | F'2 D'C' | D'4 | 
+D'2 F'2 | D'C' B2 | C'2 D'F' | C'3 D' | 
+B2 BG | F3 G | B2 C'D' | B4 | 
+C'3 D' | C'3 D' | F'2 G'F' | D'4 | 
+D'2 F'2 | D'C' B2 | C'2 D'F' | C'3 D' | 
+B2 BG | F3 G | B2 C'D' | B4 ||
+
+X:4
+%%staffsep .8in
+%%staffwidth 750
+T:望春风 (Longing for the Spring Breeze)
+C:鄧雨賢
+M:4/4
+L:1/8
+%%measurenb 0
+V:1 clef=treble
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+[V:1] F3 F G2 B2 | c2 Bc d4 | f3 d dc B2 | c6 z2 | 
+d3 f f2 df | B3 c c4 | F3 d d2 c2 | B6 z2 | 
+c3 c d2 cB | G2 FG B4 | G3 B c2 d2 | f6 z2 | 
+f3 f g2 fd | d2 cB G4 | F3 d d2 c2 | B6 z2 ||

@@ -22,7 +22,7 @@ V:1 clef=treble name="Hulusi in Bb 1" snm="Bb 1"
 %%jianpu 1
 %%MIDI program 5
 K:Bbmaj
-[V12]  d2 f2 | d2 (cd) | f2 (dc) | d4 | d2 f2 | (dc) B2 | 
+[V:1]  d2 f2 | d2 (cd) | f2 (dc) | d4 | d2 f2 | (dc) B2 | 
 c2 (df) | c3 d | B2 (BG) | F3 G | B2 (cd) | B4 | 
 c3 d | c3 d | f2 (gf) | d4 | d2 f2 | (dc) B2 | 
 c2 (df) | c3 d | B2 (BG) | F3 G | B2 (cd) | B4 ||
@@ -83,7 +83,7 @@ V:1 clef=treble
 %%MIDI program 5
 K:Bbmaj
 %%visualtranspose -10_of_semitones
-[V12]  d2 f2 | d2 (cd) | f2 (dc) | d4 | d2 f2 | (dc) B2 | 
+d2 f2 | d2 (cd) | f2 (dc) | d4 | d2 f2 | (dc) B2 | 
 c2 (df) | c3 d | B2 (BG) | F3 G | B2 (cd) | B4 | 
 c3 d | c3 d | f2 (gf) | d4 | d2 f2 | (dc) B2 | 
 c2 (df) | c3 d | B2 (BG) | F3 G | B2 (cd) | B4 ||

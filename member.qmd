@@ -2,12 +2,40 @@
 title: "Members Only"
 ---
 
-This page lists all files currently available in the `sheetmusic` folder.
+# Our Mission
 
-Total files: **60**
+The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area. Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage. Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.
 
-## 1 荷塘月色
-- [readme.md](<sheetmusic/1 荷塘月色/readme.md>)
+奥马哈葫芦丝合奏团成立于2025年4月，团员来自奥马哈都会区各年龄层不同背景的中国音乐爱好者。合奏团以精心编排的多声部作品为特色，生动呈现传统与现代中国旋律的独特魅力。通过社区演出与文化交流活动，合奏团积极推广葫芦丝艺术，传播中国音乐之美。
+
+---
+
+# General Information
+
+This folder contains all sheet music, in both staff notation and jianpu notation, for the Omaha Hulusi Ensemble. They are organized in sub-folders, with the numbers in the front of folder names indicate the order they were prepared.
+
+Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://easyabc.sourceforge.net/) and [Michael Eskin's ABC Transcription Tool](https://michaeleskin.com/abctools/abctools.html) to edit these ABC files. To compile in jianpu, I use [ABC edit with abc2svg](http://moinejf.free.fr/js/edit-1.xhtml).
+
+# Tunes Completed and Planned
+
+- 1 荷塘月色 (Moonlight over the Lotus Pond)
+- 2 望春风 (Longing for the Spring Breeze)
+- 3 美国经典串烧 (American Heritage Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+- 4 太湖船 (Boat on Tai Lake)
+- 5 紫竹调 (Purple Bamboo Melody) (planned)
+- 6 甜蜜蜜 (Dayung Sampan) (planned)
+- 7 芦笙恋歌 (Love Song of the Reed Pipe) (planned)
+- 99 入门练习曲
+# 1 荷塘月色
+
+## Instrumentation
+
+- 9-Hole Hulusi in Bb: one
+- Hulusi in Bb 1: many
+- Hulusi in Bb 2: one
+- (optional) Hulusi in F: one
+- Bass Hulusi in Bb 1: at least one
+- (optional) Bass Hulusi in Bb 2
 - [荷塘月色 FINAL for OS.abc](<sheetmusic/1 荷塘月色/荷塘月色 FINAL for OS.abc>)
 - [荷塘月色 FINAL.abc](<sheetmusic/1 荷塘月色/荷塘月色 FINAL.abc>)
 - [荷塘月色 FINAL.mp3](<sheetmusic/1 荷塘月色/荷塘月色 FINAL.mp3>)
@@ -27,8 +55,14 @@ Total files: **60**
 - [荷塘月色 简谱 CONDUCTOR.pdf](<sheetmusic/1 荷塘月色/荷塘月色 简谱 CONDUCTOR.pdf>)
 - [荷塘月色 简谱 F.pdf](<sheetmusic/1 荷塘月色/荷塘月色 简谱 F.pdf>)
 
-## 2 望春风
-- [readme.md](<sheetmusic/2 望春风/readme.md>)
+# 2 望春风
+
+## Instrumentation
+
+- Hulusi in Bb 1: at least one
+- Hulusi in Bb 2: one
+- Bass Hulusi in Bb: at least one
+- (optional, no variation) Hulusi in Bb 3
 - [望春风 FINAL.abc](<sheetmusic/2 望春风/望春风 FINAL.abc>)
 - [望春风 FINAL.mp3](<sheetmusic/2 望春风/望春风 FINAL.mp3>)
 - [望春风 五线谱 Bass Bb.pdf](<sheetmusic/2 望春风/望春风 五线谱 Bass Bb.pdf>)
@@ -42,7 +76,13 @@ Total files: **60**
 - [望春风 简谱 Bb 3.pdf](<sheetmusic/2 望春风/望春风 简谱 Bb 3.pdf>)
 - [望春风 简谱 CONDUCTOR.pdf](<sheetmusic/2 望春风/望春风 简谱 CONDUCTOR.pdf>)
 
-## 3 美国经典串烧
+# 3 美国经典串烧
+
+## Instrumentation
+
+- Lead Hulusi in Bb: one
+- Hulusi in Bb 1: many
+- Bass Hulusi in Bb: at least one
 - [Medley Duet.abc](<sheetmusic/3 美国经典串烧/Medley Duet.abc>)
 - [Medley Duet.mp3](<sheetmusic/3 美国经典串烧/Medley Duet.mp3>)
 - [Medley 五线谱 Bass Bb.pdf](<sheetmusic/3 美国经典串烧/Medley 五线谱 Bass Bb.pdf>)
@@ -53,12 +93,26 @@ Total files: **60**
 - [Medley 简谱 Bb 1.pdf](<sheetmusic/3 美国经典串烧/Medley 简谱 Bb 1.pdf>)
 - [Medley 简谱 CONDUCTOR.pdf](<sheetmusic/3 美国经典串烧/Medley 简谱 CONDUCTOR.pdf>)
 - [Medley 简谱 LEAD Bb.pdf](<sheetmusic/3 美国经典串烧/Medley 简谱 LEAD Bb.pdf>)
-- [readme.md](<sheetmusic/3 美国经典串烧/readme.md>)
 
-## 4 太湖船
+# 4 太湖船
+
+## Instrumentation One (Bb 1, Bb 2, and two Bass Bb)
+
+- Hulusi in Bb 1: many
+- Hulusi in Bb 2: one
+- Hulusi in F: none
+- Bass Hulusi in Bb: two, and they split in measures 9, 10, 21, and 22
+- (optional, no variation) Hulusi in Bb 3
+
+## Instrumentation Two (Bb 1, one Bass Bb, and optional F)
+
+- Hulusi in Bb 1: many
+- Hulusi in Bb 2: none
+- (optional) Hulusi in F: one, plays the same as Bb 1 for measures 1 through 24 (can skip measure 24), then switch to Bb 1
+- Bass Hulusi in Bb: one, and plays bottom line in measures 9, 10, 21, and 22
+- (optional, no variation) Hulusi in Bb 3
 - [Boat on Tai Lake and Variations.abc](<sheetmusic/4 太湖船/Boat on Tai Lake and Variations.abc>)
 - [Boat on Tai Lake and Variations.mp3](<sheetmusic/4 太湖船/Boat on Tai Lake and Variations.mp3>)
-- [readme.md](<sheetmusic/4 太湖船/readme.md>)
 - [太湖船 五线谱 Bass Bb.pdf](<sheetmusic/4 太湖船/太湖船 五线谱 Bass Bb.pdf>)
 - [太湖船 五线谱 Bb 1.pdf](<sheetmusic/4 太湖船/太湖船 五线谱 Bb 1.pdf>)
 - [太湖船 五线谱 Bb 2.pdf](<sheetmusic/4 太湖船/太湖船 五线谱 Bb 2.pdf>)
@@ -69,13 +123,12 @@ Total files: **60**
 - [太湖船 简谱 Bb 3.pdf](<sheetmusic/4 太湖船/太湖船 简谱 Bb 3.pdf>)
 - [太湖船 简谱 CONDUCTOR.pdf](<sheetmusic/4 太湖船/太湖船 简谱 CONDUCTOR.pdf>)
 
-## 5 紫竹调
+# 5 紫竹调
+
 - [紫竹调 Melody Only Bb 1.pdf](<sheetmusic/5 紫竹调/紫竹调 Melody Only Bb 1.pdf>)
 
-## 99 入门练习曲
+# 99 入门练习曲
+
 - [Practice.abc](<sheetmusic/99 入门练习曲/Practice.abc>)
 - [入门练习曲 五线谱.pdf](<sheetmusic/99 入门练习曲/入门练习曲 五线谱.pdf>)
 - [入门练习曲 简谱.pdf](<sheetmusic/99 入门练习曲/入门练习曲 简谱.pdf>)
-
-## (root)
-- [readme.md](<sheetmusic/readme.md>)

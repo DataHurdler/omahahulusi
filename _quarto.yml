@@ -29,7 +29,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: "Pentatonic Woodwinds"
-        href: https://pentatonicwoodwinds.luozijun.com
+        href: https://datahurdler.github.io/pentatonicwoodwinds/
       # - text: "Codes"
       #   href: codes.qmd
       # - text: "中文"

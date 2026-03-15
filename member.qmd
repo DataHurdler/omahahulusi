@@ -26,6 +26,7 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - 6 甜蜜蜜 (Dayung Sampan) (planned)
 - 7 芦笙恋歌 (Love Song of the Reed Pipe) (planned)
 - 99 入门练习曲
+
 # 1 荷塘月色
 
 ## Instrumentation
@@ -36,6 +37,11 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - (optional) Hulusi in F: one
 - Bass Hulusi in Bb 1: at least one
 - (optional) Bass Hulusi in Bb 2
+
+---
+
+## Download Music Files
+
 - [荷塘月色 FINAL for OS.abc](<sheetmusic/1 荷塘月色/荷塘月色 FINAL for OS.abc>)
 - [荷塘月色 FINAL.abc](<sheetmusic/1 荷塘月色/荷塘月色 FINAL.abc>)
 - [荷塘月色 FINAL.mp3](<sheetmusic/1 荷塘月色/荷塘月色 FINAL.mp3>)
@@ -63,6 +69,11 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - Hulusi in Bb 2: one
 - Bass Hulusi in Bb: at least one
 - (optional, no variation) Hulusi in Bb 3
+
+---
+
+## Download Music Files
+
 - [望春风 FINAL.abc](<sheetmusic/2 望春风/望春风 FINAL.abc>)
 - [望春风 FINAL.mp3](<sheetmusic/2 望春风/望春风 FINAL.mp3>)
 - [望春风 五线谱 Bass Bb.pdf](<sheetmusic/2 望春风/望春风 五线谱 Bass Bb.pdf>)
@@ -83,6 +94,11 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - Lead Hulusi in Bb: one
 - Hulusi in Bb 1: many
 - Bass Hulusi in Bb: at least one
+
+---
+
+## Download Music Files
+
 - [Medley Duet.abc](<sheetmusic/3 美国经典串烧/Medley Duet.abc>)
 - [Medley Duet.mp3](<sheetmusic/3 美国经典串烧/Medley Duet.mp3>)
 - [Medley 五线谱 Bass Bb.pdf](<sheetmusic/3 美国经典串烧/Medley 五线谱 Bass Bb.pdf>)
@@ -111,6 +127,11 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - (optional) Hulusi in F: one, plays the same as Bb 1 for measures 1 through 24 (can skip measure 24), then switch to Bb 1
 - Bass Hulusi in Bb: one, and plays bottom line in measures 9, 10, 21, and 22
 - (optional, no variation) Hulusi in Bb 3
+
+---
+
+## Download Music Files
+
 - [Boat on Tai Lake and Variations.abc](<sheetmusic/4 太湖船/Boat on Tai Lake and Variations.abc>)
 - [Boat on Tai Lake and Variations.mp3](<sheetmusic/4 太湖船/Boat on Tai Lake and Variations.mp3>)
 - [太湖船 五线谱 Bass Bb.pdf](<sheetmusic/4 太湖船/太湖船 五线谱 Bass Bb.pdf>)
@@ -125,9 +146,13 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 
 # 5 紫竹调
 
+## Download Music Files
+
 - [紫竹调 Melody Only Bb 1.pdf](<sheetmusic/5 紫竹调/紫竹调 Melody Only Bb 1.pdf>)
 
 # 99 入门练习曲
+
+## Download Music Files
 
 - [Practice.abc](<sheetmusic/99 入门练习曲/Practice.abc>)
 - [入门练习曲 五线谱.pdf](<sheetmusic/99 入门练习曲/入门练习曲 五线谱.pdf>)

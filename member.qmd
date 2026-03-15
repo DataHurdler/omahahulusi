@@ -2,6 +2,49 @@
 title: "Members Only"
 ---
 
+```{=html}
+<style>
+  #members-gate {
+    max-width: 420px;
+    margin: 3rem auto;
+    padding: 1.25rem;
+    border: 1px solid #d9d9d9;
+    border-radius: 10px;
+    background: #fff;
+  }
+  #members-gate h2 {
+    margin-top: 0;
+  }
+  #members-gate input {
+    width: 100%;
+    margin: 0.5rem 0 0.75rem 0;
+    padding: 0.5rem;
+    border: 1px solid #bfbfbf;
+    border-radius: 6px;
+  }
+  #members-gate button {
+    padding: 0.45rem 0.9rem;
+    border: 0;
+    border-radius: 6px;
+    background: #2f6fa3;
+    color: #fff;
+    cursor: pointer;
+  }
+  #members-content {
+    display: none;
+  }
+</style>
+
+<div id="members-gate">
+  <h2>Members Access</h2>
+  <p>Please enter the password to view this page.</p>
+  <input id="members-password" type="password" placeholder="Password" />
+  <button id="members-submit" type="button">Enter</button>
+</div>
+
+<div id="members-content">
+```
+
 # Our Mission
 
 The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area. Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage. Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.
@@ -157,3 +200,45 @@ Sheet music were prepared using ABC Notation. I use a mix of [EasyABC](https://e
 - [Practice.abc](<sheetmusic/99 入门练习曲/Practice.abc>)
 - [入门练习曲 五线谱.pdf](<sheetmusic/99 入门练习曲/入门练习曲 五线谱.pdf>)
 - [入门练习曲 简谱.pdf](<sheetmusic/99 入门练习曲/入门练习曲 简谱.pdf>)
+
+```{=html}
+</div>
+
+<script>
+  (function () {
+    // Change this password to whatever you want.
+    var PASSWORD = "Omaha";
+    var KEY = "membersOnlyUnlockedV1";
+    var gate = document.getElementById("members-gate");
+    var content = document.getElementById("members-content");
+    var input = document.getElementById("members-password");
+    var btn = document.getElementById("members-submit");
+
+    function unlock() {
+      gate.style.display = "none";
+      content.style.display = "block";
+    }
+
+    if (sessionStorage.getItem(KEY) === "true") {
+      unlock();
+      return;
+    }
+
+    function checkPassword() {
+      if (input.value === PASSWORD) {
+        sessionStorage.setItem(KEY, "true");
+        unlock();
+      } else {
+        alert("Incorrect password.");
+      }
+    }
+
+    btn.addEventListener("click", checkPassword);
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        checkPassword();
+      }
+    });
+  })();
+</script>
+```

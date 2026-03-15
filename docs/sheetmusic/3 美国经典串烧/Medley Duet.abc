@@ -1,0 +1,395 @@
+%pdfquality 1
+%pageheader Medley
+%pagefooter Omaha Hulusi Ensemble (Last updated: $DATEYMD)
+%headerfooterfontsize 9
+%pdffont Noto-Sans
+
+X:1
+%%staffsep .8in
+%%staffwidth 750
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(for Hulusi Emsemble)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%score [1 5 4]
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble name="Lead Hulusi in Bb" snm="Lead Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:1] d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | A2 B2 c2 d2 | c8 |
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | c2 B2 c2 d2 | B4 A4 ||
+M:3/4
+G4 [Q:1/4=80] F2 | B4 dB | d4 c2 | B4 (3GBG | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B6- ||
+B4 F2 | BFBcdB | dFAdcG | BdBFBG | F4 Fc | BFGBdB | 
+dBAGFc | fgfdBd | f4 d2 | fcBdBG | BGFGFB |
+GcdfBG | F4 F2 | B4 dB | d4 c2 | B4 c2 ||
+M:4/4
+K:Fmaj
+B3 c F2 B/2G/2F/2G/2 | [Q:1/4=160] A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F8 | 
+B4 B3 c | d2 d4 d2 | c2 c2 A2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F4 z4 |]
+V:4 clef=treble-8 name="Bass Hulusi in Bb" snm="Bass Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:4] B2 f2 B2 f2 | F2 c2 f2 c2 | G2 d2 G2 d2 | A2 A2 A2 d2 |
+B2 G2 B2 G2 | B2 B2 G2 F2 | c4 G2 d2 | F2 c2 A2 c2 |
+B2 f2 B2 f2 | F2 c2 f2 c2 | G2 d2 G2 d2 | A2 A2 A2 d2 |
+B2 G2 B2 G2 | B2 B2 G2 F2 | c4 G2 c2 | B8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B4 dB | d4 F2 | B4 (3GBG | F4 z2 | B6 |
+B4 F2 | B6- | B4 z2 | B6 | B6 | 
+G3 G GB | B4 z2 | G6 | B4 F2 | B6 || 
+z4 F2 | B4 dB | d4 c2 | B4 G2 | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 c2 z2 | G2 c2 c2 z2 | 
+F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 B2 z2 | F2 F2 F2 F2 |
+G2 z2 G2 z2 | F2 F4 F2 | F2 z2 F2 z2 | G2 c2 c2 z2 |
+F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 c2 z2 | F4 z4 |]
+V:5 clef=treble name="Hulusi in Bb 1" snm="Bb 1"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:5] d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | A2 B2 c2 d2 | c8 |
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | c2 B2 c2 d2 | B8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B4 dB | d4 c2 | B4 (3GBG | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B6- ||
+B4 F2 | BFBcdB | dFAdcG | BdBFBG | F4 Fc | BFGBdB | 
+dBAGFc | fgfdBd | f4 d2 | fcBdBG | BGFGFB |
+GcdfBG | F4 F2 | B4 dB | d4 c2 | B4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F8 | 
+B4 B3 c | d2 d4 d2 | c2 c2 A2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F4 z4 |]
+
+X:2
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Lead Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+Q:1/4=160
+M:4/4
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | A2 B2 c2 d2 | c8 |
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | c2 B2 c2 d2 | B4 A4 ||
+M:3/4
+G4 [Q:1/4=80] F2 | B4 dB | d4 c2 | B4 (3GBG | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B6- ||
+B4 F2 | BFBcdB | dFAdcG | 
+BdBFBG | F4 Fc | BFGBdB | 
+dBAGFc | fgfdBd | f4 d2 | 
+fcBdBG | BGFGFB |
+GcdfBG | F4 F2 | 
+B4 dB | d4 c2 | B4 c2 ||
+M:4/4
+K:Fmaj
+B3 c F2 B/2G/2F/2G/2 | [Q:1/4=160] A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F8 | 
+B4 B3 c | d2 d4 d2 | c2 c2 A2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F4 z4 |]
+
+X:3
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Bass Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:4 clef=treble
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+Q:1/4=160
+M:4/4
+B2 f2 B2 f2 | F2 c2 f2 c2 | G2 d2 G2 d2 | A2 A2 A2 d2 |
+B2 G2 B2 G2 | B2 B2 G2 F2 | c4 G2 d2 | F2 c2 A2 c2 |
+B2 f2 B2 f2 | F2 c2 f2 c2 | G2 d2 G2 d2 | A2 A2 A2 d2 |
+B2 G2 B2 G2 | B2 B2 G2 F2 | c4 G2 c2 | B8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B4 dB | d4 F2 | B4 (3GBG | F4 z2 | B6 |
+B4 F2 | B6- | B4 z2 | B6 | B6 | 
+G3 G GB | B4 z2 | G6 | B4 F2 | B6 || 
+z4 F2 | B4 dB | d4 c2 | B4 G2 | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 c2 z2 | G2 c2 c2 z2 | 
+F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 B2 z2 | F2 F2 F2 F2 |
+G2 z2 G2 z2 | F2 F4 F2 | F2 z2 F2 z2 | G2 c2 c2 z2 |
+F2 z2 F2 z2 | F2 z2 F2 z2 | F2 z2 c2 z2 | F4 z4 |]
+
+X:4
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Hulusi in Bb 1)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:5 clef=treble
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+Q:1/4=160
+M:4/4
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | A2 B2 c2 d2 | c8 |
+d2 d2 d2 d2 | c2 c2 c4 | B2 B2 B2 B2 | d8 |
+G2 G2 G2 G2 | F2 F2 B4 | c2 B2 c2 d2 | B8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B4 dB | d4 c2 | B4 (3GBG | F4 F2 | B4 dB | 
+d4 c2 | f6- | f4 d2 | f3 d fd | B4 F2 |
+G3 B BG | F4 F2 | B4 dB | d4 c2 | B6- ||
+B4 F2 | BFBcdB | dFAdcG | 
+BdBFBG | F4 Fc | BFGBdB | 
+dBAGFc | fgfdBd | f4 d2 | 
+fcBdBG | BGFGFB |
+GcdfBG | F4 F2 | 
+B4 dB | d4 c2 | B4 z2 ||
+M:4/4
+K:Fmaj
+z8 | [Q:1/4=160] A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F8 | 
+B4 B3 c | d2 d4 d2 | c2 c2 A2 F2 | G6 FG | 
+A2 c2 c3 d | c2 AG F2 FG | A2 A2 G2 G2 | F4 z4 |]
+
+% Below are formatted for Jianpu compiling at http://moinejf.free.fr/js/edit-1.xhtml
+
+X:11
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(for Hulusi Emsemble)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%score [1 5 4]
+%%barnumbers 0
+%%measurenb 0
+%%transpose 12
+V:1 clef=treble name="Lead Hulusi in Bb" snm="Lead Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:1] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,4 A,4 ||
+M:3/4
+G,4 [Q:1/4=80] F,2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 C2 ||
+M:4/4
+B,3 C F,2 B,/2G,/2F,/2G,/2 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+V:4 clef=treble-8 name="Bass Hulusi in Bb" snm="Bass Bb"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:4] B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 D2 | F,2 C2 A,2 C2 |
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 C2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 F,2 | B,4 (3G,B,G, | F,4 z2 | B,6 |
+B,4 F,2 | B,6- | B,4 z2 | B,6 | B,6 | 
+G,3 G, G,B, | B,4 z2 | G,6 | B,4 F,2 | B,6 || 
+z4 F,2 | B,4 DB, | D4 C2 | B,4 G,2 | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | G,2 C2 C2 z2 | 
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 B,2 z2 | F,2 F,2 F,2 F,2 |
+G,2 z2 G,2 z2 | F,2 F,4 F,2 | F,2 z2 F,2 z2 | G,2 C2 C2 z2 |
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | F,2 z2 C2 z2 | F,4 z4 |]
+V:5 clef=treble name="Hulusi in Bb 1" snm="Bb 1"
+%%jianpu 1
+%%MIDI program 5
+K:Bbmaj
+Q:1/4=160
+M:4/4
+[V:5] D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | A,2 A,2 G,2 G,2 | F,4 z4 |]
+
+X:12
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Lead Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:1 clef=treble
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,4 A,4 ||
+M:3/4
+G,4 [Q:1/4=80] F,2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | 
+B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | 
+FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 C2 ||
+M:4/4
+B,3 C F,2 B,/2G,/2F,/2G,/2 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | 
+C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,4 z4 |]
+
+X:13
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Bass Hulusi in Bb)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:4 clef=treble-8
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 D2 | F,2 C2 A,2 C2 |
+B,2 F2 B,2 F2 | F,2 C2 F2 C2 | G,2 D2 G,2 D2 | A,2 A,2 A,2 D2 |
+B,2 G,2 B,2 G,2 | B,2 B,2 G,2 F,2 | C4 G,2 C2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 F,2 | B,4 (3G,B,G, | F,4 z2 | B,6 |
+B,4 F,2 | B,6- | B,4 z2 | B,6 | B,6 | 
+G,3 G, G,B, | B,4 z2 | G,6 | B,4 F,2 | B,6 || 
+z4 F,2 | B,4 DB, | D4 C2 | 
+B,4 G,2 | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | 
+F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 C2 z2 | G,2 C2 C2 z2 | 
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 B,2 z2 | F,2 F,2 F,2 F,2 |
+G,2 z2 G,2 z2 | F,2 F,4 F,2 | 
+F,2 z2 F,2 z2 | G,2 C2 C2 z2 |
+F,2 z2 F,2 z2 | F,2 z2 F,2 z2 | 
+F,2 z2 C2 z2 | F,4 z4 |]
+
+X:14
+T:Medley
+T:(Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)
+T:(Hulusi in Bb 1)
+C:Traditional
+C:Arranged by 罗子俊
+L:1/8
+%%barnumbers 0
+%%measurenb 0
+V:5 clef=treble
+%%jianpu 1
+%%MIDI program 5
+%%transpose 12
+K:Bbmaj
+Q:1/4=160
+M:4/4
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | A,2 B,2 C2 D2 | C8 |
+D2 D2 D2 D2 | C2 C2 C4 | B,2 B,2 B,2 B,2 | D8 |
+G,2 G,2 G,2 G,2 | F,2 F,2 B,4 | C2 B,2 C2 D2 | B,8 ||
+M:3/4
+z4 [Q:1/4=80] z2 | B,4 DB, | D4 C2 | B,4 (3G,B,G, | F,4 F,2 | B,4 DB, | 
+D4 C2 | F6- | F4 D2 | F3 D FD | B,4 F,2 |
+G,3 B, B,G, | F,4 F,2 | B,4 DB, | D4 C2 | B,6- ||
+B,4 F,2 | B,F,B,CDB, | DF,A,DCG, | 
+B,DB,F,B,G, | F,4 F,C | B,F,G,B,DB, | 
+DB,A,G,F,C | FGFDB,D | F4 D2 | 
+FCB,DB,G, | B,G,F,G,F,B, |
+G,CDFB,G, | F,4 F,2 | 
+B,4 DB, | D4 C2 | B,4 z2 ||
+M:4/4
+z8 | [Q:1/4=160] A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,8 | 
+B,4 B,3 C | D2 D4 D2 | 
+C2 C2 A,2 F,2 | G,6 F,G, | 
+A,2 C2 C3 D | C2 A,G, F,2 F,G, | 
+A,2 A,2 G,2 G,2 | F,4 z4 |]

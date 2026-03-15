@@ -1,0 +1,78 @@
+%pdfquality 1
+%pageheader
+%pagefooter Pentatonic Woodwinds (Last updated: $DATEYMD)
+%headerfooterfontsize 9
+%pdffont Noto-Sans
+
+%%stretchlast 1
+
+X:1
+T:太湖船 (Boat on Tai Lake)
+C:江苏民歌
+M:2/4
+L:1/8
+Q:1/4=78
+%%measurenb 0
+V:1 clef=treble
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+D'2 F'2 | D'2 C'D' | F'2 D'C' | D'4 | 
+D'2 F'2 | D'C' B2 | C'2 D'F' | C'3 D' | 
+B2 BG | F3 G | B2 C'D' | B4 | 
+C'3 D' | C'3 D' | F'2 G'F' | D'4 | 
+D'2 F'2 | D'C' B2 | C'2 D'F' | C'3 D' | 
+B2 BG | F3 G | B2 C'D' | B4 |]
+
+X:2
+T:望春风 (Longing for the Spring Breeze)
+C:鄧雨賢
+M:4/4
+L:1/8
+Q:1/4=72
+%%measurenb 0
+V:1 clef=treble
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+[V:1] F3 F G2 B2 | c2 Bc d4 | f3 d dc B2 | c6 z2 | 
+d3 f f2 df | B3 c c4 | F3 d d2 c2 | B6 z2 | 
+c3 c d2 cB | G2 FG B4 | G3 B c2 d2 | f6 z2 | 
+f3 f g2 fd | d2 cB G4 | F3 d d2 c2 | B6 z2 |]
+
+X:3
+T:紫竹调 (Purple Bamboo Melody)
+C:江苏民歌
+M:2/4
+L:1/8
+Q:1/4=80
+%%barnumbers 0
+V:1 clef=treble
+K:Fmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+[V:1] c2 f2 | (dc) A2 | (Ac) (AG) | F4 | df Ac | d2 A2 |
+c4- | c4 | (fd) Ad | c4 | (dc)Ad | c4 |
+c2 f2 | (dc) A2 | (cG) (AG) | F4 | F2 (FA) | G4 |
+dfdf | g2 d2 | c4 | F2 (FA) | G4 | dfdf |
+g2 d2 | (c3 d) | (GAcd | c4-) | c4 |]
+
+X:4
+T:婚誓 (Marriage Vows)
+T:(电影《芦笙恋歌》插曲)
+C:雷振邦
+M:3/4
+L:1/4
+Q:1/4=120
+%%barnumbers 0
+V:1 clef=treble
+K:Bbmaj
+%%visualtranspose -10_of_semitones
+%%jianpu 1
+[V:1] f2 d | gfd | cB B/2G/2 | F2 B/2c/2 | d3- | d3 |
+f2 d | gfd | c2 d | F2 G | B3- | B3 ||
+BcB | fdB | Bd3/2B/2 | c2 d | F3- | F3 |
+Bcd | gfd | cB3/2G/2 | c3- | c3 |
+GFG | Bcd | gf3/2B/2 | d f2- | f3 |
+B2 c/2f/2 | d3 - | d3 | gfd |1 c2 d | F2 G | B3- | 
+B3 :||2 c3 | dFG | B3- | B3- | B3 - | B3 |]

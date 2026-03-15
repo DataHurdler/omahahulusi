@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: omahahulusi
+  output-dir: docs
+  resources:
+    - sheetmusic/**
   
 website:
   page-navigation: true

@@ -1,0 +1,14 @@
+---
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="robots" content="noindex, nofollow">
+---
+
+## Members Resources
+
+Sheet music is distributed directly to ensemble members and is not
+published on this site.
+
+If you are a member and need a part, please contact the ensemble.

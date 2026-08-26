@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+/.quarto/
+
+# Sheet music is copyrighted -- never commit it to a public repository.
+sheetmusic/
+docs/sheetmusic/
+*.mscz
+*.musicxml

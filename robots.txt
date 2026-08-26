@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# The members page carries <meta name="robots" content="noindex">.
+# It is deliberately NOT disallowed here: a blocked page is never fetched,
+# so the noindex would never be seen and the URL could still be indexed.
+
+Sitemap: https://www.luozijun.com/omahahulusi/sitemap.xml

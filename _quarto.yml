@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  page-navigation: true
+  title: "Omaha Hulusi Ensemble"
+  site-url: https://www.luozijun.com/omahahulusi
+  # repo-actions: [edit, issue]
+  
+  page-footer:
+    left: |
+      © 2025-2026 [Omaha Hulusi Ensemble](https://www.luozijun.com/omahahulusi)<br>
+    right: |
+      Made with [Quarto](https://quarto.org/)<br>
+    
+  navbar: 
+    background: "#A9CCE3"
+    search: true
+    left: 
+      - text: "Home"
+        href: index.qmd
+      - text: "Members Only"
+        href: member.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Pentatonic Woodwinds"
+        href: https://www.luozijun.com/pentatonicwoodwinds/
+      # - text: "Codes"
+      #   href: codes.qmd
+      # - text: "中文"
+      #   href: Chinese.qmd
+      # - text: "CV"
+      #   href: CV.pdf
+
+format:
+  html:
+    theme: styles.scss
+    toc: false            # 启用目录
+    toc-position: right  # 将目录放置在页面的右侧
+    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细

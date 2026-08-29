@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "sheetmusic/4 太湖船/readme.html",
-    "href": "sheetmusic/4 太湖船/readme.html",
-    "title": "Omaha Hulusi Ensemble",
+    "objectID": "performances.html",
+    "href": "performances.html",
+    "title": "Performances",
     "section": "",
-    "text": "Hulusi in Bb 1: many\nHulusi in Bb 2: one\nHulusi in F: none\nBass Hulusi in Bb: two, and they split in measures 9, 10, 21, and 22\n(optional, no variation) Hulusi in Bb 3"
-  },
-  {
-    "objectID": "sheetmusic/4 太湖船/readme.html#instrumentation-one-bb-1-bb-2-and-two-bass-bb",
-    "href": "sheetmusic/4 太湖船/readme.html#instrumentation-one-bb-1-bb-2-and-two-bass-bb",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Hulusi in Bb 1: many\nHulusi in Bb 2: one\nHulusi in F: none\nBass Hulusi in Bb: two, and they split in measures 9, 10, 21, and 22\n(optional, no variation) Hulusi in Bb 3"
-  },
-  {
-    "objectID": "sheetmusic/4 太湖船/readme.html#instrumentation-two-bb-1-one-bass-bb-and-optional-f",
-    "href": "sheetmusic/4 太湖船/readme.html#instrumentation-two-bb-1-one-bass-bb-and-optional-f",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "Instrumentation Two (Bb 1, one Bass Bb, and optional F)",
-    "text": "Instrumentation Two (Bb 1, one Bass Bb, and optional F)\n\nHulusi in Bb 1: many\nHulusi in Bb 2: none\n(optional) Hulusi in F: one, plays the same as Bb 1 for measures 1 through 24 (can skip measure 24), then switch to Bb 1\nBass Hulusi in Bb: one, and plays bottom line in measures 9, 10, 21, and 22\n(optional, no variation) Hulusi in Bb 3"
-  },
-  {
-    "objectID": "sheetmusic/readme.html",
-    "href": "sheetmusic/readme.html",
-    "title": "Our Mission",
-    "section": "",
-    "text": "Our Mission\nThe Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area. Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage. Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.\n奥马哈葫芦丝合奏团成立于2025年4月，团员来自奥马哈都会区各年龄层不同背景的中国音乐爱好者。合奏团以精心编排的多声部作品为特色，生动呈现传统与现代中国旋律的独特魅力。通过社区演出与文化交流活动，合奏团积极推广葫芦丝艺术，传播中国音乐之美。\n\n\n\nGeneral Information\nThis folder contains all sheet music, in both staff notation and jianpu notation, for the Omaha Hulusi Ensemble. They are organized in sub-folders, with the numbers in the front of folder names indicate the order they were prepared.\nSheet music were prepared using ABC Notation. I use a mix of EasyABC and Michael Eskin’s ABC Transcription Tool to edit these ABC files. To compile in jianpu, I use ABC edit with abc2svg.\n\n\nTunes Completed and Planned\n\n1 荷塘月色 (Moonlight over the Lotus Pond)\n2 望春风 (Longing for the Spring Breeze)\n3 美国经典串烧 (American Heritage Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna)\n4 太湖船 (Boat on Tai Lake)\n5 紫竹调 (Purple Bamboo Melody) (planned)\n6 甜蜜蜜 (Dayung Sampan) (planned)\n7 芦笙恋歌 (Love Song of the Reed Pipe) (planned)\n99 入门练习曲"
-  },
-  {
-    "objectID": "sheetmusic/1 荷塘月色/readme.html",
-    "href": "sheetmusic/1 荷塘月色/readme.html",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "9-Hole Hulusi in Bb: one\nHulusi in Bb 1: many\nHulusi in Bb 2: one\n(optional) Hulusi in F: one\nBass Hulusi in Bb 1: at least one\n(optional) Bass Hulusi in Bb 2"
-  },
-  {
-    "objectID": "sheetmusic/1 荷塘月色/readme.html#instrumentation",
-    "href": "sheetmusic/1 荷塘月色/readme.html#instrumentation",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "9-Hole Hulusi in Bb: one\nHulusi in Bb 1: many\nHulusi in Bb 2: one\n(optional) Hulusi in F: one\nBass Hulusi in Bb 1: at least one\n(optional) Bass Hulusi in Bb 2"
+    "text": "NCA Lunar New Year’s Gala (Orpheum Theater, Omaha, February 21, 2026)\n\n荷塘月色 (Moonlight over the Lotus Pond)\n\n\n\nBamboo & Joysticks (College of Saint Mary, April 17, 2026)\n\n荷塘月色 (Moonlight over the Lotus Pond)\n望春风 (Longing for the Spring Breeze)\n婚誓 (Marriage Vow)\n太湖船 (Boat on Tai Lake)\nAmerican Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna\n\n\n\n@ Omaha Central Library (May 16, 2026)\n\n荷塘月色 (Moonlight over the Lotus Pond)\n太湖船 (Boat on Tai Lake)\n\n\n\nOne Community Cultural Festrival (Leahy Mall at The RiverFront, September 18, 2026)\n\n紫竹调 (Purple Bamboo Melody)"
   },
   {
     "objectID": "index.html",
@@ -49,52 +14,10 @@
     "text": "The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area. Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage. Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.\n奥马哈葫芦丝合奏团成立于2025年4月，团员来自奥马哈都会区各年龄层不同背景的中国音乐爱好者。合奏团以精心编排的多声部作品为特色，生动呈现传统与现代中国旋律的独特魅力。通过社区演出与文化交流活动，合奏团积极推广葫芦丝艺术，传播中国音乐之美。"
   },
   {
-    "objectID": "member.html",
-    "href": "member.html",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Sheet music is distributed directly to ensemble members and is not published on this site.\nIf you are a member and need a part, please contact the ensemble."
-  },
-  {
-    "objectID": "member.html#members-resources",
-    "href": "member.html#members-resources",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Sheet music is distributed directly to ensemble members and is not published on this site.\nIf you are a member and need a part, please contact the ensemble."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music lovers of all ages and experience levels from across the Omaha Metro area. Known for its vibrant multi-part arrangements of both traditional and contemporary Chinese melodies, the ensemble brings the distinctive beauty of the hulusi to life on stage. Through community performances and cultural exchange, the group actively promotes the art of the hulusi and invites wider audiences to experience the elegance and expressive richness of Chinese music.\n奥马哈葫芦丝合奏团成立于2025年4月，团员来自奥马哈都会区各年龄层不同背景的中国音乐爱好者。合奏团以精心编排的多声部作品为特色，生动呈现传统与现代中国旋律的独特魅力。通过社区演出与文化交流活动，合奏团积极推广葫芦丝艺术，传播中国音乐之美。\n\nCurrent Members\n* Founding member\n\nJing Chang\nRan Dai*\nXiang Fang\nZhigang Feng\nZhongming Huang\nSiyue Yvonne Luo*\nZijun Luo*\nMengting McKee*\nHongyan Qin\nMenghan Wang*\nMinghua Wang*\nLishan Wu\nDaru Zhang*"
-  },
-  {
-    "objectID": "sheetmusic/3 美国经典串烧/readme.html",
-    "href": "sheetmusic/3 美国经典串烧/readme.html",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Lead Hulusi in Bb: one\nHulusi in Bb 1: many\nBass Hulusi in Bb: at least one"
-  },
-  {
-    "objectID": "sheetmusic/3 美国经典串烧/readme.html#instrumentation",
-    "href": "sheetmusic/3 美国经典串烧/readme.html#instrumentation",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Lead Hulusi in Bb: one\nHulusi in Bb 1: many\nBass Hulusi in Bb: at least one"
-  },
-  {
-    "objectID": "sheetmusic/2 望春风/readme.html",
-    "href": "sheetmusic/2 望春风/readme.html",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Hulusi in Bb 1: at least one\nHulusi in Bb 2: one\nBass Hulusi in Bb: at least one\n(optional, no variation) Hulusi in Bb 3"
-  },
-  {
-    "objectID": "sheetmusic/2 望春风/readme.html#instrumentation",
-    "href": "sheetmusic/2 望春风/readme.html#instrumentation",
-    "title": "Omaha Hulusi Ensemble",
-    "section": "",
-    "text": "Hulusi in Bb 1: at least one\nHulusi in Bb 2: one\nBass Hulusi in Bb: at least one\n(optional, no variation) Hulusi in Bb 3"
   }
 ]

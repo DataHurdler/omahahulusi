@@ -20,18 +20,12 @@ website:
     left: 
       - text: "Home"
         href: index.qmd
-      - text: "Members Only"
-        href: member.qmd
+      - text: "Performances"
+        href: performances.qmd
       - text: "About"
         href: about.qmd
       - text: "Pentatonic Woodwinds"
         href: https://www.luozijun.com/pentatonicwoodwinds/
-      # - text: "Codes"
-      #   href: codes.qmd
-      # - text: "中文"
-      #   href: Chinese.qmd
-      # - text: "CV"
-      #   href: CV.pdf
 
 format:
   html:

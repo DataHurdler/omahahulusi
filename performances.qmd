@@ -1,0 +1,25 @@
+---
+title: "Performances"
+description: |
+  Concerts, community performances, and cultural exchange events by the Omaha Hulusi Ensemble.
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### NCA Lunar New Year's Gala (Orpheum Theater, Omaha, February 21, 2026)
+- 荷塘月色 (Moonlight over the Lotus Pond)
+
+### Bamboo & Joysticks (College of Saint Mary, April 17, 2026)
+- 荷塘月色 (Moonlight over the Lotus Pond)
+- 望春风 (Longing for the Spring Breeze)
+- 婚誓 (Marriage Vow)
+- 太湖船 (Boat on Tai Lake)
+- American Medley: Jolly Old Saint Nicholas/Amazing Grace/Oh! Susanna
+
+### @ Omaha Central Library (May 16, 2026)
+- 荷塘月色 (Moonlight over the Lotus Pond)
+- 太湖船 (Boat on Tai Lake)
+
+### One Community Cultural Festrival (Leahy Mall at The RiverFront, September 18, 2026)
+- 紫竹调 (Purple Bamboo Melody)

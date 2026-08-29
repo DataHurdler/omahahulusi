@@ -6,9 +6,6 @@ website:
   page-navigation: true
   title: "Omaha Hulusi Ensemble"
   site-url: https://www.luozijun.com/omahahulusi
-  description: |
-    The Omaha Hulusi Ensemble is a traditional Chinese music ensemble of Hulusi based in the Omaha metro area, performing primarily arrangements of traditional and modern Chinese music.
-  open-graph: true
   # repo-actions: [edit, issue]
   
   page-footer:

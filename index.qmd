@@ -1,5 +1,14 @@
 ---
 title: "Omaha Hulusi Ensemble"
+format:
+  html:
+    include-in-header:
+      # Set as raw meta tags rather than a front-matter `description:`, which
+      # Quarto would also render as a visible subtitle on the About template.
+      text: |
+        <meta name="description" content="A hulusi ensemble in the Omaha metro area, performing traditional and contemporary Chinese music through community performances and cultural exchange.">
+        <meta property="og:description" content="A hulusi ensemble in the Omaha metro area, performing traditional and contemporary Chinese music through community performances and cultural exchange.">
+        <meta name="twitter:description" content="A hulusi ensemble in the Omaha metro area, performing traditional and contemporary Chinese music through community performances and cultural exchange.">
 image: images/hulusi.jpeg
 about:
   id: hero-heading

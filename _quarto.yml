@@ -6,6 +6,10 @@ website:
   page-navigation: true
   title: "Omaha Hulusi Ensemble"
   site-url: https://www.luozijun.com/omahahulusi
+  description: "A hulusi ensemble in the Omaha metro area, performing traditional and contemporary Chinese music through community performances and cultural exchange."
+  image: images/hulusi.jpeg
+  open-graph: true
+  twitter-card: true
   # repo-actions: [edit, issue]
   
   page-footer:

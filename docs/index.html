@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-4931ad3a4f610300299060d87ad9de1f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6caf8c0f39e678cc6273bd996df8ecf1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e8556d624aa9bd474e68c5fd2352dfa2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -248,10 +248,14 @@ ul.task-list li input[type="checkbox"] {
       document.documentElement.setAttribute("lang", zh ? "zh-Hans" : "en");
 
       var button = document.getElementById("lang-switch");
-      if (button) {
-        button.textContent = zh ? "English" : "中文";
+      var label = document.getElementById("lang-switch-label");
+      if (button && label) {
+        // Phrase the label as an instruction, written in the language it
+        // switches *to*: a Chinese speaker landing on the English page sees
+        // Chinese text, which is what draws the eye, and vice versa.
+        label.textContent = zh ? "Switch to English" : "切换到中文";
+        label.setAttribute("lang", zh ? "en" : "zh-Hans");
         button.setAttribute("aria-label", zh ? "Switch to English" : "切换到中文");
-        button.setAttribute("lang", zh ? "en" : "zh-Hans");
       }
     }
 
@@ -260,11 +264,14 @@ ul.task-list li input[type="checkbox"] {
       if (!collapse || document.getElementById("lang-switch")) return;
 
       var list = document.createElement("ul");
-      list.className = "navbar-nav navbar-nav-scroll ms-auto";
+      list.className = "navbar-nav navbar-nav-scroll";
+      list.id = "lang-switch-nav";
       list.innerHTML =
         '<li class="nav-item">' +
-        '<a class="nav-link" href="#" id="lang-switch" role="button"></a>' +
-        "</li>";
+        '<a class="nav-link" href="#" id="lang-switch" role="button">' +
+        '<i class="bi bi-translate" aria-hidden="true"></i>' +
+        '<span id="lang-switch-label"></span>' +
+        "</a></li>";
       collapse.appendChild(list);
 
       document.getElementById("lang-switch").addEventListener("click", function (event) {

@@ -21,15 +21,15 @@ The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music 
 \* 创团成员
 :::
 
-- Jing Chang
-- Ran Dai\* ([Inactive]{.lang-en}[非活跃]{.lang-zh})
-- Xiang Fang
-- Zhigang Feng ([Inactive]{.lang-en}[非活跃]{.lang-zh})
-- Zhongming Huang
-- Siyue Yvonne Luo\*
-- Zijun Luo\*
-- Mengting McKee\*
-- Menghan Wang\*
-- Minghua Wang\*
-- Lishan Wu ([Inactive]{.lang-en}[非活跃]{.lang-zh})
-- Daru Zhang\*
+- [Jing Chang]{.lang-en}[常菁]{.lang-zh}
+- [Ran Dai]{.lang-en}[戴然]{.lang-zh}\* ([Inactive]{.lang-en}[非活跃成员]{.lang-zh})
+- [Xiang Fang]{.lang-en}[方向]{.lang-zh}
+- [Zhigang Feng]{.lang-en}[冯志钢]{.lang-zh} ([Inactive]{.lang-en}[非活跃成员]{.lang-zh})
+- [Zhongming Huang]{.lang-en}[黄钟明]{.lang-zh}
+- [Siyue Yvonne Luo]{.lang-en}[罗思悦]{.lang-zh}\*
+- [Zijun Luo]{.lang-en}[罗子俊]{.lang-zh}\*
+- [Mengting McKee]{.lang-en}[赖梦婷]{.lang-zh}\*
+- [Menghan Wang]{.lang-en}[王梦菡]{.lang-zh}\*
+- [Minghua Wang]{.lang-en}[王明华]{.lang-zh}\*
+- [Lishan Wu]{.lang-en}[吴立山]{.lang-zh} ([Inactive]{.lang-en}[非活跃成员]{.lang-zh})
+- [Daru Zhang]{.lang-en}[张达汝]{.lang-zh}\*

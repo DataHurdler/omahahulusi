@@ -156,6 +156,48 @@ html[data-lang="zh"] .lang-en {
   display: none !important;
 }
 
+/* Quarto gives #navbarCollapse flex-grow:1 and puts .me-auto on the main nav
+   list. A second list with .ms-auto would split the slack between the two auto
+   margins and leave the toggle floating mid-navbar, so drop the left list's
+   auto margin and hand all of it to the toggle instead. */
+.navbar .navbar-collapse .navbar-nav.me-auto {
+  margin-right: 0 !important;
+}
+
+#lang-switch-nav {
+  margin-left: auto;
+}
+
 #lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.2rem 0.85rem;
+  border-radius: 2rem;
+  background: rgba(255, 255, 255, 0.92);
+  color: #1c4a5e !important;
+  font-weight: 600;
   cursor: pointer;
+}
+
+#lang-switch:hover,
+#lang-switch:focus-visible {
+  background: #fff;
+  color: #10333f !important;
+}
+
+#lang-switch .bi {
+  font-size: 1.05em;
+}
+
+/* Below the lg breakpoint the navbar collapses to a column, where an auto left
+   margin would shove the pill against the right edge. */
+@media (max-width: 991.98px) {
+  #lang-switch-nav {
+    margin-left: 0;
+  }
+
+  #lang-switch {
+    margin: 0.4rem 0;
+  }
 }

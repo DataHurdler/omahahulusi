@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-4931ad3a4f610300299060d87ad9de1f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6caf8c0f39e678cc6273bd996df8ecf1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e8556d624aa9bd474e68c5fd2352dfa2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -172,18 +172,18 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 <ul>
-<li>Jing Chang</li>
-<li>Ran Dai* (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃</span>)</li>
-<li>Xiang Fang</li>
-<li>Zhigang Feng (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃</span>)</li>
-<li>Zhongming Huang</li>
-<li>Siyue Yvonne Luo*</li>
-<li>Zijun Luo*</li>
-<li>Mengting McKee*</li>
-<li>Menghan Wang*</li>
-<li>Minghua Wang*</li>
-<li>Lishan Wu (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃</span>)</li>
-<li>Daru Zhang*</li>
+<li><span class="lang-en">Jing Chang</span><span class="lang-zh">常菁</span></li>
+<li><span class="lang-en">Ran Dai</span><span class="lang-zh">戴然</span>* (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃成员</span>)</li>
+<li><span class="lang-en">Xiang Fang</span><span class="lang-zh">方向</span></li>
+<li><span class="lang-en">Zhigang Feng</span><span class="lang-zh">冯志钢</span> (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃成员</span>)</li>
+<li><span class="lang-en">Zhongming Huang</span><span class="lang-zh">黄钟明</span></li>
+<li><span class="lang-en">Siyue Yvonne Luo</span><span class="lang-zh">罗思悦</span>*</li>
+<li><span class="lang-en">Zijun Luo</span><span class="lang-zh">罗子俊</span>*</li>
+<li><span class="lang-en">Mengting McKee</span><span class="lang-zh">赖梦婷</span>*</li>
+<li><span class="lang-en">Menghan Wang</span><span class="lang-zh">王梦菡</span>*</li>
+<li><span class="lang-en">Minghua Wang</span><span class="lang-zh">王明华</span>*</li>
+<li><span class="lang-en">Lishan Wu</span><span class="lang-zh">吴立山</span> (<span class="lang-en">Inactive</span><span class="lang-zh">非活跃成员</span>)</li>
+<li><span class="lang-en">Daru Zhang</span><span class="lang-zh">张达汝</span>*</li>
 </ul>
 
 
@@ -267,10 +267,14 @@ ul.task-list li input[type="checkbox"] {
       document.documentElement.setAttribute("lang", zh ? "zh-Hans" : "en");
 
       var button = document.getElementById("lang-switch");
-      if (button) {
-        button.textContent = zh ? "English" : "中文";
+      var label = document.getElementById("lang-switch-label");
+      if (button && label) {
+        // Phrase the label as an instruction, written in the language it
+        // switches *to*: a Chinese speaker landing on the English page sees
+        // Chinese text, which is what draws the eye, and vice versa.
+        label.textContent = zh ? "Switch to English" : "切换到中文";
+        label.setAttribute("lang", zh ? "en" : "zh-Hans");
         button.setAttribute("aria-label", zh ? "Switch to English" : "切换到中文");
-        button.setAttribute("lang", zh ? "en" : "zh-Hans");
       }
     }
 
@@ -279,11 +283,14 @@ ul.task-list li input[type="checkbox"] {
       if (!collapse || document.getElementById("lang-switch")) return;
 
       var list = document.createElement("ul");
-      list.className = "navbar-nav navbar-nav-scroll ms-auto";
+      list.className = "navbar-nav navbar-nav-scroll";
+      list.id = "lang-switch-nav";
       list.innerHTML =
         '<li class="nav-item">' +
-        '<a class="nav-link" href="#" id="lang-switch" role="button"></a>' +
-        "</li>";
+        '<a class="nav-link" href="#" id="lang-switch" role="button">' +
+        '<i class="bi bi-translate" aria-hidden="true"></i>' +
+        '<span id="lang-switch-label"></span>' +
+        "</a></li>";
       collapse.appendChild(list);
 
       document.getElementById("lang-switch").addEventListener("click", function (event) {

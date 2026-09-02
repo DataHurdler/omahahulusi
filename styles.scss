@@ -202,18 +202,20 @@ html[data-lang="zh"] .lang-en {
 }
 
 /* Quarto paints .about-link with $link-color, and that red read oddly under
-   the title. Use the title's own colour so the two sit together. Referenced as
-   $headings-color rather than the hex, so it tracks the title if that changes.
+   the title. Use the title's own colour so the two sit together, darkened
+   enough to read: $headings-color itself is 2.92:1 on white, short of the 4.5:1
+   AA wants, and it looked faint on the live page. Derived from the variable
+   rather than hard-coded, so it still tracks the title if that changes.
    Quarto's `border: solid 1px` leaves border-color as currentColor, so the
    outline follows the text colour on its own; the hover state has to name it
    because it fills the button instead. */
 #lang-switch-hero {
-  color: $headings-color;
+  color: darken($headings-color, 13%);
 }
 
 #lang-switch-hero:hover,
 #lang-switch-hero:focus-visible {
-  color: $theme-darkcoffee1;
-  background: $headings-color;
-  border-color: $headings-color;
+  color: $theme-white;
+  background: darken($headings-color, 13%);
+  border-color: darken($headings-color, 13%);
 }

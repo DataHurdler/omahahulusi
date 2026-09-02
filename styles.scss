@@ -16,6 +16,7 @@ $theme-darkcoffee3: #632e0d;
 $theme-milkcoffee0: #f2ece3;
 $theme-milkcoffee3: #cca79f;
 $theme-milkcoffee2: #b98f68;
+$theme-navbar-deep: #2c6c8c;
 $theme-milkcoffee1: #9e736a;
 $theme-mocha1: #7f2606;
 $theme-mocha2: #9a4c28;
@@ -176,7 +177,6 @@ html[data-lang="zh"] .lang-en {
   border-radius: 2rem;
   background: rgba(255, 255, 255, 0.92);
   color: #1c4a5e !important;
-  font-weight: 600;
   cursor: pointer;
 }
 
@@ -200,4 +200,20 @@ html[data-lang="zh"] .lang-en {
   #lang-switch {
     margin: 0.4rem 0;
   }
+}
+
+/* Quarto paints .about-link with $link-color, and that red reads oddly under
+   the title. Use the navbar blue instead -- darkened, because #A9CCE3 itself is
+   only 1.69:1 on white. #2c6c8c gives 5.78:1. Quarto's `border: solid 1px`
+   leaves border-color as currentColor, so the outline follows the text colour
+   on its own; the hover state has to name it because the text turns white. */
+#lang-switch-hero {
+  color: $theme-navbar-deep;
+}
+
+#lang-switch-hero:hover,
+#lang-switch-hero:focus-visible {
+  color: $theme-white;
+  background: $theme-navbar-deep;
+  border-color: $theme-navbar-deep;
 }

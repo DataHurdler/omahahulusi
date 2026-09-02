@@ -74,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
   // and both languages stay visible.
   (function () {
     var stored = null;
-    try { stored = window.localStorage.getItem("ohe-lang"); } catch (e) {}
+    try { stored = window.localStorage.getItem("site-lang"); } catch (e) {}
     var lang = (stored === "zh" || stored === "en") ? stored
       : (navigator.language || "").toLowerCase().indexOf("zh") === 0 ? "zh" : "en";
     document.documentElement.setAttribute("data-lang", lang);
@@ -236,7 +236,7 @@ ul.task-list li input[type="checkbox"] {
   // page titles, descriptions and the footer. Page *content* is switched by the
   // .lang-en / .lang-zh rules in styles.scss instead.
   (function () {
-    var STORAGE_KEY = "ohe-lang";
+    var STORAGE_KEY = "site-lang";
 
     var ZH = {
       "Omaha Hulusi Ensemble": "奥马哈葫芦丝合奏团",

@@ -250,6 +250,12 @@ ul.task-list li input[type="checkbox"] {
       "Search": "搜索"
     };
 
+    // [button id, label id] for each language switch on the page.
+    var SWITCHES = [
+      ["lang-switch", "lang-switch-label"],
+      ["lang-switch-hero", "lang-switch-hero-label"]
+    ];
+
     // Elements whose text is swapped wholesale. Each entry is remembered with its
     // original English text so switching back is lossless.
     var SELECTORS = [
@@ -308,19 +314,28 @@ ul.task-list li input[type="checkbox"] {
       document.documentElement.setAttribute("data-lang", lang);
       document.documentElement.setAttribute("lang", zh ? "zh-Hans" : "en");
 
-      var button = document.getElementById("lang-switch");
-      var label = document.getElementById("lang-switch-label");
-      if (button && label) {
-        // Phrase the label as an instruction, written in the language it
-        // switches *to*: a Chinese speaker landing on the English page sees
-        // Chinese text, which is what draws the eye, and vice versa.
-        label.textContent = zh ? "Switch to English" : "切换到中文";
+      // Phrase the label as an instruction, written in the language it
+      // switches *to*: a Chinese speaker landing on the English page sees
+      // Chinese text, which is what draws the eye, and vice versa.
+      var instruction = zh ? "Switch to English" : "切换到中文";
+      SWITCHES.forEach(function (ids) {
+        var button = document.getElementById(ids[0]);
+        var label = document.getElementById(ids[1]);
+        if (!button || !label) return;
+        label.textContent = instruction;
         label.setAttribute("lang", zh ? "en" : "zh-Hans");
-        button.setAttribute("aria-label", zh ? "Switch to English" : "切换到中文");
-      }
+        button.setAttribute("aria-label", instruction);
+      });
     }
 
-    function mount() {
+    function toggle(event) {
+      event.preventDefault();
+      var next = document.documentElement.getAttribute("data-lang") === "zh" ? "en" : "zh";
+      try { window.localStorage.setItem(STORAGE_KEY, next); } catch (e) {}
+      apply(next);
+    }
+
+    function mountNavbar() {
       var collapse = document.getElementById("navbarCollapse");
       if (!collapse || document.getElementById("lang-switch")) return;
 
@@ -334,17 +349,44 @@ ul.task-list li input[type="checkbox"] {
         '<span id="lang-switch-label"></span>' +
         "</a></li>";
       collapse.appendChild(list);
+      document.getElementById("lang-switch").addEventListener("click", toggle);
+    }
 
-      document.getElementById("lang-switch").addEventListener("click", function (event) {
-        event.preventDefault();
-        var next = document.documentElement.getAttribute("data-lang") === "zh" ? "en" : "zh";
-        try { window.localStorage.setItem(STORAGE_KEY, next); } catch (e) {}
-        apply(next);
-      });
+    // A second switch under the title on the About-template home page, built to
+    // match Quarto's own about-link markup. Injected rather than declared as an
+    // `about: links:` entry because Quarto rewrites those hrefs to be
+    // site-root-relative ("/index.html#lang"), which points off this site to
+    // luozijun.com. Injecting also means no switch appears when scripting is
+    // off, which is right: both languages are already visible then.
+    function mountHero() {
+      var entity = document.querySelector(".quarto-about-trestles .about-entity");
+      if (!entity || document.getElementById("lang-switch-hero")) return;
+
+      var header = entity.querySelector("#title-block-header");
+      if (!header) return;
+
+      var links = entity.querySelector(".about-links");
+      if (!links) {
+        links = document.createElement("div");
+        links.className = "about-links";
+        header.insertAdjacentElement("afterend", links);
+      }
+
+      var link = document.createElement("a");
+      link.className = "about-link";
+      link.id = "lang-switch-hero";
+      link.href = "#";
+      link.setAttribute("role", "button");
+      link.innerHTML =
+        '<i class="bi bi-translate" aria-hidden="true"></i>' +
+        '<span class="about-link-text" id="lang-switch-hero-label"></span>';
+      links.appendChild(link);
+      link.addEventListener("click", toggle);
     }
 
     function init() {
-      mount();
+      mountNavbar();
+      mountHero();
       apply(document.documentElement.getAttribute("data-lang") || "en");
     }
 

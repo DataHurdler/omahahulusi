@@ -148,3 +148,14 @@ h4 {
   background-size: 1em;
   background-position: 1em 0.5em;
 }
+
+/* 中英文切换 —— 由 _includes/lang-head.html 设置 html[data-lang]。
+   未启用 JavaScript 时两种语言同时显示。 */
+html[data-lang="en"] .lang-zh,
+html[data-lang="zh"] .lang-en {
+  display: none !important;
+}
+
+#lang-switch {
+  cursor: pointer;
+}

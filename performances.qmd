@@ -7,6 +7,7 @@ editor:
     wrap: 72
 ---
 
+::: {.lang-en}
 ### NCA Lunar New Year's Gala (Orpheum Theater, Omaha, February 21, 2026)
 - 荷塘月色 (Moonlight over the Lotus Pond)
 
@@ -21,5 +22,25 @@ editor:
 - 荷塘月色 (Moonlight over the Lotus Pond)
 - 太湖船 (Boat on Tai Lake)
 
-### One Community Cultural Festrival (Leahy Mall at The RiverFront, September 18, 2026)
+### One Community Cultural Festival (Leahy Mall at The RiverFront, September 18, 2026)
 - 紫竹调 (Purple Bamboo Melody)
+:::
+
+::: {.lang-zh}
+### NCA 春节晚会（奥马哈奥芬剧院，2026年2月21日）
+- 荷塘月色
+
+### Bamboo & Joysticks（圣玛丽学院，2026年4月17日）
+- 荷塘月色
+- 望春风
+- 婚誓
+- 太湖船
+- 美国民谣联奏：Jolly Old Saint Nicholas / Amazing Grace / Oh! Susanna
+
+### 奥马哈中央图书馆（2026年5月16日）
+- 荷塘月色
+- 太湖船
+
+### One Community 文化节（河滨公园 Leahy 广场，2026年9月18日）
+- 紫竹调
+:::

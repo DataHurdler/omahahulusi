@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-4931ad3a4f610300299060d87ad9de1f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-494b6251eedb571883a261cc533abfa9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6caf8c0f39e678cc6273bd996df8ecf1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+  // Set the language before first paint so the hidden half never flashes.
+  // With JavaScript off no data-lang is set, the .lang-* rules never match,
+  // and both languages stay visible.
+  (function () {
+    var stored = null;
+    try { stored = window.localStorage.getItem("ohe-lang"); } catch (e) {}
+    var lang = (stored === "zh" || stored === "en") ? stored
+      : (navigator.language || "").toLowerCase().indexOf("zh") === 0 ? "zh" : "en";
+    document.documentElement.setAttribute("data-lang", lang);
+    document.documentElement.setAttribute("lang", lang === "zh" ? "zh-Hans" : "en");
+  })();
+</script>
 
 
 <meta property="og:title" content="Performances – Omaha Hulusi Ensemble">
@@ -152,6 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="lang-en">
 <section id="nca-lunar-new-years-gala-orpheum-theater-omaha-february-21-2026" class="level3">
 <h3 class="anchored" data-anchor-id="nca-lunar-new-years-gala-orpheum-theater-omaha-february-21-2026">NCA Lunar New Year’s Gala (Orpheum Theater, Omaha, February 21, 2026)</h3>
 <ul>
@@ -175,16 +189,177 @@ ul.task-list li input[type="checkbox"] {
 <li>太湖船 (Boat on Tai Lake)</li>
 </ul>
 </section>
-<section id="one-community-cultural-festrival-leahy-mall-at-the-riverfront-september-18-2026" class="level3">
-<h3 class="anchored" data-anchor-id="one-community-cultural-festrival-leahy-mall-at-the-riverfront-september-18-2026">One Community Cultural Festrival (Leahy Mall at The RiverFront, September 18, 2026)</h3>
+<section id="one-community-cultural-festival-leahy-mall-at-the-riverfront-september-18-2026" class="level3">
+<h3 class="anchored" data-anchor-id="one-community-cultural-festival-leahy-mall-at-the-riverfront-september-18-2026">One Community Cultural Festival (Leahy Mall at The RiverFront, September 18, 2026)</h3>
 <ul>
 <li>紫竹调 (Purple Bamboo Melody)</li>
 </ul>
-
-
 </section>
+</div>
+<div class="lang-zh">
+<section id="nca-春节晚会奥马哈奥芬剧院2026年2月21日" class="level3">
+<h3 class="anchored" data-anchor-id="nca-春节晚会奥马哈奥芬剧院2026年2月21日">NCA 春节晚会（奥马哈奥芬剧院，2026年2月21日）</h3>
+<ul>
+<li>荷塘月色</li>
+</ul>
+</section>
+<section id="bamboo-joysticks圣玛丽学院2026年4月17日" class="level3">
+<h3 class="anchored" data-anchor-id="bamboo-joysticks圣玛丽学院2026年4月17日">Bamboo &amp; Joysticks（圣玛丽学院，2026年4月17日）</h3>
+<ul>
+<li>荷塘月色</li>
+<li>望春风</li>
+<li>婚誓</li>
+<li>太湖船</li>
+<li>美国民谣联奏：Jolly Old Saint Nicholas / Amazing Grace / Oh! Susanna</li>
+</ul>
+</section>
+<section id="奥马哈中央图书馆2026年5月16日" class="level3">
+<h3 class="anchored" data-anchor-id="奥马哈中央图书馆2026年5月16日">奥马哈中央图书馆（2026年5月16日）</h3>
+<ul>
+<li>荷塘月色</li>
+<li>太湖船</li>
+</ul>
+</section>
+<section id="one-community-文化节河滨公园-leahy-广场2026年9月18日" class="level3">
+<h3 class="anchored" data-anchor-id="one-community-文化节河滨公园-leahy-广场2026年9月18日">One Community 文化节（河滨公园 Leahy 广场，2026年9月18日）</h3>
+<ul>
+<li>紫竹调</li>
+</ul>
+</section>
+</div>
+
+
 
 </main> <!-- /main -->
+<script>
+  // Site chrome that Quarto generates outside the .qmd sources: navbar labels,
+  // page titles, descriptions and the footer. Page *content* is switched by the
+  // .lang-en / .lang-zh rules in styles.scss instead.
+  (function () {
+    var STORAGE_KEY = "ohe-lang";
+
+    var ZH = {
+      "Omaha Hulusi Ensemble": "奥马哈葫芦丝合奏团",
+      "Home": "首页",
+      "Performances": "演出",
+      "About": "关于",
+      "Pentatonic Woodwinds": "五木头",
+      "Concerts, community performances, and cultural exchange events by the Omaha Hulusi Ensemble.":
+        "奥马哈葫芦丝合奏团的音乐会、社区演出与文化交流活动。",
+      "Made with": "制作工具",
+      "Search": "搜索"
+    };
+
+    // Elements whose text is swapped wholesale. Each entry is remembered with its
+    // original English text so switching back is lossless.
+    var SELECTORS = [
+      ".navbar-title",
+      ".navbar-nav .menu-text",
+      "h1.title",
+      "#title-block-header .description p",
+      ".nav-footer a",
+      "#quarto-search"
+    ];
+
+    function collect() {
+      var out = [];
+      SELECTORS.forEach(function (sel) {
+        Array.prototype.forEach.call(document.querySelectorAll(sel), function (el) {
+          var en = el.getAttribute("data-en");
+          if (en === null) {
+            en = el.id === "quarto-search" ? el.getAttribute("title") : el.textContent.trim();
+            if (!en || !ZH[en]) return;
+            el.setAttribute("data-en", en);
+          }
+          out.push(el);
+        });
+      });
+      return out;
+    }
+
+    function apply(lang) {
+      var zh = lang === "zh";
+      collect().forEach(function (el) {
+        var en = el.getAttribute("data-en");
+        var text = zh ? ZH[en] : en;
+        if (el.id === "quarto-search") {
+          el.setAttribute("title", text);
+          var input = el.querySelector("input");
+          if (input) input.setAttribute("placeholder", text);
+        } else {
+          el.textContent = text;
+        }
+      });
+
+      // "Made with Quarto" keeps the Quarto link, so only its lead-in moves.
+      var madeWith = document.querySelector(".nav-footer-right p");
+      if (madeWith && madeWith.firstChild && madeWith.firstChild.nodeType === 3) {
+        madeWith.firstChild.nodeValue = zh ? "制作工具：" : "Made with ";
+      }
+
+      var titled = document.querySelector("h1.title");
+      if (titled) {
+        var suffix = zh ? " – 奥马哈葫芦丝合奏团" : " – Omaha Hulusi Ensemble";
+        document.title = titled.textContent === (zh ? ZH["Omaha Hulusi Ensemble"] : "Omaha Hulusi Ensemble")
+          ? titled.textContent
+          : titled.textContent + suffix;
+      }
+
+      document.documentElement.setAttribute("data-lang", lang);
+      document.documentElement.setAttribute("lang", zh ? "zh-Hans" : "en");
+
+      var button = document.getElementById("lang-switch");
+      if (button) {
+        button.textContent = zh ? "English" : "中文";
+        button.setAttribute("aria-label", zh ? "Switch to English" : "切换到中文");
+        button.setAttribute("lang", zh ? "en" : "zh-Hans");
+      }
+    }
+
+    function mount() {
+      var collapse = document.getElementById("navbarCollapse");
+      if (!collapse || document.getElementById("lang-switch")) return;
+
+      var list = document.createElement("ul");
+      list.className = "navbar-nav navbar-nav-scroll ms-auto";
+      list.innerHTML =
+        '<li class="nav-item">' +
+        '<a class="nav-link" href="#" id="lang-switch" role="button"></a>' +
+        "</li>";
+      collapse.appendChild(list);
+
+      document.getElementById("lang-switch").addEventListener("click", function (event) {
+        event.preventDefault();
+        var next = document.documentElement.getAttribute("data-lang") === "zh" ? "en" : "zh";
+        try { window.localStorage.setItem(STORAGE_KEY, next); } catch (e) {}
+        apply(next);
+      });
+    }
+
+    function init() {
+      mount();
+      apply(document.documentElement.getAttribute("data-lang") || "en");
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", init);
+    } else {
+      init();
+    }
+
+    // Quarto builds the search input asynchronously, so watch for it rather
+    // than depend on script order.
+    var search = document.getElementById("quarto-search");
+    if (search && window.MutationObserver) {
+      new MutationObserver(function () {
+        var input = search.querySelector("input");
+        if (!input) return;
+        var zh = document.documentElement.getAttribute("data-lang") === "zh";
+        input.setAttribute("placeholder", zh ? ZH["Search"] : "Search");
+      }).observe(search, { childList: true, subtree: true });
+    }
+  })();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -33,3 +33,18 @@ The Omaha Hulusi Ensemble, founded in April 2025, brings together Chinese music 
 - [Minghua Wang]{.lang-en}[王明华]{.lang-zh}\*
 - [Lishan Wu]{.lang-en}[吴立山]{.lang-zh} ([Inactive]{.lang-en}[非活跃成员]{.lang-zh})
 - [Daru Zhang]{.lang-en}[张达汝]{.lang-zh}\*
+
+::: {.lang-en}
+### Contact
+
+To invite the ensemble to perform, to propose a collaboration, or to ask about
+joining us, write to
+[omahahulusi@gmail.com](mailto:omahahulusi@gmail.com).
+:::
+
+::: {.lang-zh}
+### 联系我们
+
+演出邀请、合作洽谈或入团咨询，欢迎发送邮件至
+[omahahulusi@gmail.com](mailto:omahahulusi@gmail.com)。
+:::

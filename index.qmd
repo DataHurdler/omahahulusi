@@ -15,6 +15,10 @@ about:
   template: trestles
   image-width: 12em
   image-shape: round
+  links:
+    - icon: envelope
+      text: omahahulusi@gmail.com
+      href: mailto:omahahulusi@gmail.com
 ---
 
 ::: {#hero-heading}

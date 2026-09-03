@@ -8,6 +8,9 @@ editor:
 ---
 
 ::: {.lang-en}
+To invite the ensemble to your event, write to
+[omahahulusi@gmail.com](mailto:omahahulusi@gmail.com).
+
 ### NCA Lunar New Year's Gala (Orpheum Theater, Omaha, February 21, 2026)
 - 荷塘月色 (Moonlight over the Lotus Pond)
 
@@ -27,6 +30,9 @@ editor:
 :::
 
 ::: {.lang-zh}
+诚邀合奏团参加您的活动，请联系
+[omahahulusi@gmail.com](mailto:omahahulusi@gmail.com)。
+
 ### NCA Lunar New Year's Gala 春节联欢晚会（Orpheum Theater，奥马哈，2026年2月21日）
 - 荷塘月色
 

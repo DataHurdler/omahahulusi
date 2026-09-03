@@ -202,17 +202,22 @@ html[data-lang="zh"] .lang-en {
 }
 
 /* Quarto paints .about-link with $link-color, and that red read oddly under
-   the title. Use the title's own colour so the two sit together, darkened
-   enough to read: $headings-color itself is 2.92:1 on white, short of the 4.5:1
-   AA wants, and it looked faint on the live page. Derived from the variable
-   rather than hard-coded, so it still tracks the title if that changes.
+   the title. This covers every hero link -- the contact address and the
+   injected language switch alike. Use the title's own colour so the two sit
+   together, darkened enough to read: $headings-color itself is 2.92:1 on white,
+   short of the 4.5:1 AA wants, and it looked faint on the live page. Derived
+   from the variable rather than hard-coded, so it still tracks the title if
+   that changes.
    Quarto's `border: solid 1px` leaves border-color as currentColor, so the
    outline follows the text colour on its own; the hover state has to name it
    because it fills the button instead. */
+div.quarto-about-trestles .about-entity .about-link,
 #lang-switch-hero {
   color: darken($headings-color, 13%);
 }
 
+div.quarto-about-trestles .about-entity .about-link:hover,
+div.quarto-about-trestles .about-entity .about-link:focus-visible,
 #lang-switch-hero:hover,
 #lang-switch-hero:focus-visible {
   color: $theme-white;
